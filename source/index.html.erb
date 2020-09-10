@@ -78,6 +78,16 @@
     #birthdays section:last-child li {
       margin: 1em 0;
     }
+    #birthdays section:last-child h3 {
+      border-top: 1px solid #baa;
+    }
+    #birthdays section:last-child h3:first-child {
+      border-top: 0;
+    }
+    #birthdays section:last-child h3 {
+      padding-top: 0.5em;
+    }
+
     h1, h2, h3, h4 {
       margin: 0.25em 0;
     }
@@ -119,7 +129,7 @@
       <section>
         <h3>Upcoming</h3>
         <ul>
-          <% birthdays[0,4].each do |birthday| %>
+          <% birthdays[0,7].each do |birthday| %>
             <li class="h-event">
               <h4 class="p-name">
                 <%= describe_birthday(birthday) %>
@@ -143,6 +153,20 @@
           <li><a href="birthdays.xml">RSS/Atom feed</a>: reminders on birthdays and other events and a day and a week ahead of birthdays. Subscribe with your feed reader or use an RSS-to-email solution like <a href="https://blogtrottr.com/">Blogtrottr</a> to feed your Inbox.</li>
           <li><a href="http://microformats.org/wiki/h-event">h-event</a> clients can subscribe directly to this page.</li>
         </ul>
+
+        <h3>Contribute</h3>
+        <p>
+          Help keep this page and its feeds accurate. Submit pull requests to
+          <a href="https://github.com/Dan-Q/abnib-birthdays/blob/main/data/birthdays.yml">this file on Github</a>
+          to add/edit data.
+        </p>
+
+        <h3>What is this?</h3>
+        <p>
+          If you need to know, you already do.<br>
+          If you don't, you probably don't.<br>
+          If you don't fall into either of the two categories above... then I'm very confused. Go throw a sponge or something.
+        </p>
       </section>
     </section>
   </main>
