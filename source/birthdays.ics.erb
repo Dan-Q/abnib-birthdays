@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//abnib/abnib//NONSGML v1.0//EN
+<% birthdays.each do |birthday| %>
+BEGIN:VEVENT
+UID:<%= birthday['id'] %>@birthdays.abnib.co.uk
+DTSTAMP:<%= Date.today.strftime('%Y%m%d') %>T000000Z
+DTSTART;VALUE=DATE:<%= birthday.date.strftime('%Y%m%d') %>
+DTEND;VALUE=DATE:<%= (birthday.date + 1).strftime('%Y%m%d') %>
+SUMMARY:<%= describe_birthday birthday %>
+END:VEVENT
+<% end %>
+END:VCALENDAR

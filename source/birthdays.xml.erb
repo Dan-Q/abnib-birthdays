@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abnib Birthdays</title>
+    <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
+    <link>https://abnib.co.uk/</link>
+    <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
+    <lastBuildDate><%= Time.now.rfc2822 %></lastBuildDate>
+    <language>en-GB</language>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <% reminders.each do |reminder| %>
+      <item>
+        <title><%= describe_birthday(reminder['birthday']) %> is <%= reminder['when'] %></title>
+        <pubDate><%= (reminder['birthday']['date'] - reminder['lead']).to_time.rfc2822 %></pubDate>
+        <guid isPermaLink="false"><%= reminder['id'] %>@birthdays.abnib.co.uk</guid>
+        <description><![CDATA[...]]></description>
+      </item>
+    <% end %>
+  </channel>
+</rss>

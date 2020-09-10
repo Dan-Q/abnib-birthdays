@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>abnib</title>
+  <link href="birthdays.xml" rel="alternate" type="application/rss+xml">
+  <style type="text/css">
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      line-height: 1.8;
+      display: flex;
+      flex-direction: column;
+      font-size: 18px;
+      background: #fff;
+      color: #333;
+    }
+    header, main, footer {
+      padding: 0.5rem 1rem;
+    }
+    header {
+      color: white;
+      background: #592b0f linear-gradient(#bf6b00, #592b0f);
+      text-align: center;
+    }
+    main {
+      width: min(1920px, 90vw);
+      align-self: center;
+    }
+    footer {
+      background: #ddd;
+    }
+    footer ul {
+      display: flex;
+      justify-content: space-around;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    a {
+      color: #2626ca;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #e40f0f;
+    }
+    #birthdays {
+      display: flex;
+    }
+    #birthdays section:first-child {
+      margin-right: 2.5rem;
+      flex-grow: 1;
+    }
+    #birthdays section:first-child ul {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+    }
+    .h-event:first-child {
+      grid-column-start: 1;
+      grid-column-end: 4;
+      text-align: center;
+    }
+    .h-event {
+      border: 1px solid #baa;
+      border-radius: 0.5rem;
+      padding: 0.65rem 1.2rem;
+      margin: 0.75rem;
+    }
+    .h-event:hover {
+      background: #f5f1f1;
+    }
+    #birthdays section:last-child {
+      max-width: 24em;
+    }
+    #birthdays section:last-child li {
+      margin: 1em 0;
+    }
+    h1, h2, h3, h4 {
+      margin: 0.25em 0;
+    }
+    .via {
+      color: #666;
+      font-size: 80%;
+      font-style: italic;
+    }
+
+    /* Narrow screens: put subscription options below */
+    @media(max-width: 1200px) {
+      #birthdays {
+        flex-direction: column;
+      }
+      #birthdays section:first-child {
+        margin-right: 0;
+      }
+    }
+
+    /* Very narrow screens: columnise events */
+    @media(max-width: 600px) {
+      .h-event {
+        grid-column-start: 1;
+        grid-column-end: 4;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>abnib</h1>
+  </header>
+
+  <main>
+
+    <h2>Birthdays etc.</h2>
+    <section id="birthdays">
+      <section>
+        <h3>Upcoming</h3>
+        <ul>
+          <% birthdays[0,4].each do |birthday| %>
+            <li class="h-event">
+              <h4 class="p-name">
+                <%= describe_birthday(birthday) %>
+              </h4>
+              <p>
+                <time class="dt-start" datetime="<%= birthday['date'] %>"><%= birthday['date'].strftime('%A %-d %B %Y') %></time>
+              </p>
+              <% if birthday['via'] %>
+                <p class="via">
+                  (send greetings via <%= birthday['via'] %>)
+                </p>
+              <% end %>
+            </li>
+          <% end %>
+        </ul>
+      </section>
+      <section>
+        <h3>Subscribe</h3>
+        <ul>
+          <li><a href="birthdays.ics">iCalendar feed</a>: works with most calendar apps. Download for a year's worth of birthdays, subscribe for live updates.</li>
+          <li><a href="birthdays.xml">RSS/Atom feed</a>: reminders on birthdays and other events and a day and a week ahead of birthdays. Subscribe with your feed reader or use an RSS-to-email solution like <a href="https://blogtrottr.com/">Blogtrottr</a> to feed your Inbox.</li>
+          <li><a href="http://microformats.org/wiki/h-event">h-event</a> clients can subscribe directly to this page.</li>
+        </ul>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <ul>
+      <li>
+        a <a href="https://things.danq.me/">Dan Q thing</a>
+      </li>
+    </ul>
+  </footer>
+</body>
+</html>

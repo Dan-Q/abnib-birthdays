@@ -1,0 +1,248 @@
+################################
+####       Birthdays        ####
+################################
+
+# adam_g:
+#  name: Adam G
+#  day: 25
+#  month: 6
+
+# adam_w:
+#  name: Adam W
+#  day: 27
+#  month: 2009
+
+alec:
+  name: Alec
+  day: 17
+  month: 3
+  year: 1983
+
+andy_k:
+  name: Andy K
+  day: 23
+  month: 7
+  via: Faye
+
+andy_r:
+  name: Andy R
+  day: 29
+  month: 7
+  year: 1982
+
+annabel:
+  name: Annabel
+  day: 7
+  month: 1
+  year: 2014
+  via: Dan, Ruth, or JTA
+
+# beth:
+#  name: Beth
+#  day: 11
+#  month: 9
+
+bryn:
+  name: Bryn
+  day: 2
+  month: 5
+
+bryony:
+  name: Bryony
+  day: 4
+  month: 7
+  year: 2016
+  via: Liz
+
+claire:
+  name: Claire
+  day: 16
+  month: 6
+
+dan:
+  name: Dan
+  day: 8
+  month: 1
+  year: 1981
+
+ele:
+  name: Ele
+  day: 6
+  month: 8
+
+emlyn:
+  name: Emlyn
+  day: 22
+  month: 5
+
+faye:
+  name: Faye
+  day: 31
+  month: 5
+
+# fiona:
+
+gareth:
+  name: Gareth
+  day: 27
+  month: 8
+
+# hayley_a:
+#  name: Hayley A
+#  day: 9
+#  month: 9
+
+iona:
+  name: Iona
+  day: 2
+  month: 9
+  year: 2020
+  via: Matt P
+
+jen:
+  name: Jen
+  day: 5
+  month: 1
+  year: 1985
+
+jimmy:
+  name: Jimmy
+  day: 10
+  month: 12
+
+john:
+  name: John
+  day: 19
+  month: 11
+  year: 2016
+  via: Dan, Ruth, or JTA
+
+jta:
+  name: JTA
+  day: 9
+  month: 4
+  year: 1985
+
+kit:
+  name: Kit
+  day: 26
+  month: 3
+
+martin:
+  name: Martin
+  day: 15
+  month: 1
+  year: 2018
+
+matt_p:
+  name: Matt P
+  day: 5
+  month: 2
+  year: 1984
+
+matt_r:
+  name: Matt R
+  day: 10
+  month: 10
+
+# paul:
+#  name: Paul
+#  day: 18
+#  month: 3
+#  year: 1984
+
+penny:
+  name: Penny
+  day: 9
+  month: 9
+
+ruth:
+  name: Ruth
+  day: 26
+  month: 10
+  year: 1984
+
+# sundeep:
+#   name: Sudeep
+#   day: 13
+#   month: 4
+
+sian:
+  name: Sian
+  day: 14
+  month: 3
+
+suz:
+  name: Suz
+  day: 21
+  month: 7
+
+tabitha:
+  name: Tabitha
+  day: 3
+  month: 8
+  year: 2019
+  via: Kit
+
+################################
+####     Anniversaries      ####
+################################
+
+# adam_emma:
+#   type: wedding anniversary
+#   name: Adam and Emma's {nth} wedding anniversary
+#   day: 17
+#   month: 4
+#   year: 2010
+
+alec_suz:
+  type: wedding anniversary
+  name: Alec & Suz's {nth} wedding anniversary
+  day: 25
+  month: 10
+  year: 2008
+
+andy_r_sian:
+  type: wedding anniversary
+  name: Andy R & Sian's {nth} wedding anniversary
+  day: 22
+  month: 1
+  year: 2010
+
+andy_k_faye:
+  type: wedding anniversary
+  name: Andy K & Faye's {nth} wedding anniversary
+  day: 14
+  month: 8
+  year: 2010
+  via: Faye
+
+dermot_jen:
+  type: wedding anniversary
+  name: Dermot & Jen's wedding anniversary
+  day: 25
+  month: 8
+  via: Jen  
+
+hannah_may_matt_r:
+  type: wedding anniversary
+  name: Hannah-May & Matt R's {nth} wedding anniversary
+  day: 21
+  month: 3
+  year: 2014
+  via: Matt R  
+
+jta_ruth:
+  type: wedding anniversary
+  name: JTA and Ruth's {nth} wedding anniversary
+  day: 27
+  month: 11
+  year: 2010
+
+liz_simon:
+  type: wedding anniversary
+  name: Liz and Simon's {nth} wedding anniversary
+  day: 13
+  month: 8
+  year: 2011
+  via: Liz
