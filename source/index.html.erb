@@ -5,7 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>abnib</title>
   <link href="birthdays.xml" rel="alternate" type="application/rss+xml">
+  <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
   <style type="text/css">
+    @font-face {
+      font-family: 'Monoton';
+      font-style: normal;
+      font-weight: 400;
+      src: local('Monoton'), local('Monoton-Regular'), url('fonts/monoton-v10-latin-regular.woff2') format('woff2'), url('fonts/monoton-v10-latin-regular.woff') format('woff');
+      font-display: block;
+    }
     body {
       margin: 0;
       font-family: sans-serif;
@@ -20,6 +30,7 @@
       padding: 0.5rem 1rem;
     }
     header {
+      font-family: 'Monoton', sans-serif;
       color: white;
       background: #592b0f linear-gradient(#bf6b00, #592b0f);
       text-align: center;
@@ -87,7 +98,11 @@
     #birthdays section:last-child h3 {
       padding-top: 0.5em;
     }
-
+    h1 {
+      font-size: 6rem;
+      font-weight: normal;
+      line-height: 1;
+    }
     h1, h2, h3, h4 {
       margin: 0.25em 0;
     }
