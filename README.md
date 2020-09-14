@@ -8,7 +8,7 @@ Middleman-powered static website to produce a list of upcoming birthdays/anniver
 2. Edit `data/birthdays.yml` if necessary
 3. `middleman build` to compile or `middleman` to run a local webserver
 
-OR with Vagrant installed, run `vagrant up` get provision and launch a VM that runs middleman on http://localhost:4567/: probably easier that wrangling Middleman's binary dependencies if you're using Windows.
+OR with Vagrant installed, run `vagrant up` to provision and launch a VM that runs middleman on http://localhost:4567/: probably easier that wrangling Middleman's binary dependencies if you're using Windows.
 
 ## License
 
