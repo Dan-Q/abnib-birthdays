@@ -133,7 +133,7 @@ helpers do
   def describe_birthday(birthday)
     if birthday['type'] && birthday['type'] != 'birthday'
       if birthday['age']
-        return birthday.name.gsub('{nth}', ordinal(birthday['age'], birthday['type']))
+        return birthday.name.gsub('{n}', birthday['age'].to_s).gsub('{nth}', ordinal(birthday['age'], birthday['type']))
       else
         return birthday.name
       end
