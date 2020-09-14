@@ -33,6 +33,7 @@ GEM
       concurrent-ruby (~> 1.0)
     kramdown (2.3.0)
       rexml
+    libv8 (3.16.14.19)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -84,11 +85,15 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+    ref (2.0.0)
     rexml (3.2.4)
     sassc (2.4.0)
       ffi (~> 1.9)
     servolux (0.13.0)
     temple (0.8.2)
+    therubyracer (0.12.3)
+      libv8 (~> 3.16.14.15)
+      ref
     thor (1.0.1)
     thread_safe (0.3.6)
     tilt (2.0.10)
@@ -103,6 +108,7 @@ PLATFORMS
 DEPENDENCIES
   middleman (~> 4.3)
   middleman-autoprefixer (~> 2.7)
+  therubyracer
   tzinfo-data
   wdm (~> 0.1)
 
