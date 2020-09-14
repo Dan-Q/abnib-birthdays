@@ -138,7 +138,7 @@ helpers do
         return birthday.name
       end
     else
-      result = "#{birthday.name}'#{'s' unless birthday.name =~ /s$/}"
+      result = "#{birthday.name}'s" unless birthday.name =~ /s$/
       result = [result, ordinal(birthday['age'])].join(' ') if birthday['age']
       return "#{result} birthday"
     end
