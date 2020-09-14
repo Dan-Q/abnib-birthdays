@@ -218,6 +218,13 @@ andy_k_faye:
   year: 2010
   via: Faye
 
+dan_ruth:
+  type: relationship anniversary
+  name: Dan & Ruth have been together {n} years
+  day: 24
+  month: 8
+  year: 2007
+
 dermot_jen:
   type: wedding anniversary
   name: Dermot & Jen's wedding anniversary
