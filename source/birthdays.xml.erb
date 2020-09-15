@@ -14,7 +14,11 @@
         <title><%= describe_birthday(reminder['birthday']) %> is <%= reminder['when'] %></title>
         <pubDate><%= (reminder['birthday']['date'] - reminder['lead']).to_time.rfc2822 %></pubDate>
         <guid isPermaLink="false"><%= reminder['id'] %>@birthdays.abnib.co.uk</guid>
-        <description><![CDATA[...]]></description>
+        <description><![CDATA[
+          <% if birthday['via'] %>
+            On WhatsApp? Send greetings via <%= birthday['via'] %>.
+          <% end %>
+        ]]></description>
       </item>
     <% end %>
   </channel>
