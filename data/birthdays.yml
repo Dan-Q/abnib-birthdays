@@ -230,7 +230,15 @@ dermot_jen:
   name: Dermot & Jen's wedding anniversary
   day: 25
   month: 8
-  via: Jen  
+  via: Jen
+
+fiona_kit:
+  type: wedding anniversary
+  name: Fiona & Kit's {nth} wedding anniversary
+  day: 23
+  month: 10
+  year: 2004
+  via: Kit
 
 hannah_may_matt_r:
   type: wedding anniversary
