@@ -131,12 +131,19 @@ kit:
   name: Kit
   day: 26
   month: 3
+ 
+liz:
+  name: Liz
+  day: 10
+  month: 11
+  year: 1982
 
 martin:
   name: Martin
   day: 15
   month: 1
   year: 2018
+  via: Claire or Jimmy
 
 matt_p:
   name: Matt P
