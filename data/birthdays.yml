@@ -36,7 +36,7 @@ annabel:
   day: 7
   month: 1
   year: 2014
-  via: Dan, Ruth, or JTA
+  via: Dan or JTA
 
 # beth:
 #  name: Beth
@@ -119,7 +119,7 @@ john:
   day: 19
   month: 11
   year: 2016
-  via: Dan, Ruth, or JTA
+  via: Dan or JTA
 
 jta:
   name: JTA
@@ -239,6 +239,7 @@ dan_ruth:
   day: 24
   month: 8
   year: 2007
+  via: Dan
 
 dermot_jen:
   type: wedding anniversary
