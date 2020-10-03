@@ -15,8 +15,8 @@
         <pubDate><%= (reminder['birthday']['date'] - reminder['lead']).to_time.rfc2822 %></pubDate>
         <guid isPermaLink="false"><%= reminder['id'] %>@birthdays.abnib.co.uk</guid>
         <description><![CDATA[
-          <% if birthday['via'] %>
-            On WhatsApp? Send greetings via <%= birthday['via'] %>.
+          <% if reminder['birthday']['via'] %>
+            On WhatsApp? Send greetings via <%= reminder['birthday']['via'] %>.
           <% end %>
         ]]></description>
       </item>
