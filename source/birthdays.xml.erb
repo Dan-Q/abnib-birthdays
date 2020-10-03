@@ -14,6 +14,7 @@
         <title><%= describe_birthday(reminder['birthday']) %> is <%= reminder['when'] %></title>
         <pubDate><%= (reminder['birthday']['date'] - reminder['lead']).to_time.rfc2822 %></pubDate>
         <guid isPermaLink="false"><%= reminder['id'] %>@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#<%= reminder['id'] %>@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on <%= reminder['birthday']['date'].strftime('%A %-d %B %Y') %>.
           <% if reminder['birthday']['via'] %>
