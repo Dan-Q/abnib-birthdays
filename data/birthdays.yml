@@ -169,6 +169,12 @@ penny:
   day: 9
   month: 9
 
+peter:
+  name: Peter
+  day: 12
+  month: 10
+  via: Faye
+
 ruth:
   name: Ruth
   day: 26
