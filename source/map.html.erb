@@ -37,7 +37,7 @@
 
   <script type="text/javascript">
     const map = L.map('map').setView([54, -4], 6);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {foo: 'bar', attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {foo: 'bar', attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors | <a href="https://github.com/Dan-Q/abnib-birthdays/blob/main/data/locations.yml">Data source</a>'}).addTo(map);
     let marker;
     <% data.locations.each do |key, location| %>
       // <%= location.inspect %>
