@@ -14,9 +14,14 @@ rugby:
   lng: 52.37
 
 london:
-  who: Bryn, Matt
+  who: Bryn
   lat: -0.1275 
   lng: 51.507222
+
+kew_gardens:
+  who: Matt
+  lat: -0.293611
+  lng: 51.478889
 
 jen:
   who: Jen
@@ -25,8 +30,8 @@ jen:
 
 claire_jimmy:
   who: Claire, Jimmy
-  lat: -2.2143372
-  lng: 51.8764673
+  lat: -2.214
+  lng: 51.876
 
 andy_sian:
   who: Andy R, Sian
