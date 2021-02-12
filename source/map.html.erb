@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>abnib</title>
+  <link href="birthdays.xml" rel="alternate" type="application/rss+xml">
+  <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+  <style type="text/css">
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      line-height: 1.8;
+      display: flex;
+      flex-direction: column;
+      font-size: 18px;
+      background: #fff;
+      color: #333;
+    }
+    main {
+      width: 100vw;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+  <main id="map">
+  </main>
+
+  <script type="text/javascript">
+    const map = L.map('map').setView([54, -4], 6);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {foo: 'bar', attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+    let marker;
+    <% data.locations.each do |key, location| %>
+      // <%= location.inspect %>
+      marker = L.marker([<%= location.lng %>, <%= location.lat %>]).addTo(map);
+      marker.bindPopup("<%= location.who %>");
+    <% end %>
+  </script>
+</body>
+</html>
