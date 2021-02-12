@@ -40,7 +40,7 @@
     let marker;
     <% data.locations.each do |key, location| %>
       // <%= location.inspect %>
-      marker = L.marker([<%= location.lng %>, <%= location.lat %>]).addTo(map);
+      marker = L.marker([<%= location.lat %>, <%= location.lng %>]).addTo(map);
       marker.bindPopup("<%= location.who %>");
     <% end %>
   </script>
