@@ -57,3 +57,8 @@ scotland:
   who: Kit
   lat: -3.188889
   lng: 55.953056
+
+penny:
+  who: Penny
+  lat: -1.0406
+  lng: 51.4579
