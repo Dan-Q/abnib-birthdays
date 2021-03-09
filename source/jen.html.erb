@@ -52,7 +52,7 @@
 
   <main>
   <% (videos = Dir.glob('source/jen-videos/*.mp4').map{|f| f.gsub(/^source\//, '') }).each do |video| %>
-    <video width="1280" height="720"><source src="<%= video %>" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="<%= video %>" type="video/mp4"></video>
   <% end %>
   </main>
 
