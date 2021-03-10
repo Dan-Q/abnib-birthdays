@@ -61,16 +61,27 @@
   </footer>
 
   <script type="text/javascript">
-    const videos = document.querySelectorAll('video');
+    /* Fisher-Yates */
+    function shuffle(array) {
+      let i = 0, j = 0, temp = null;
+      for (i = array.length - 1; i > 0; i -= 1) {
+        j = Math.floor(Math.random() * (i + 1));
+        temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+      }
+      return array;
+    }
+
+    const videos = shuffle( [...document.querySelectorAll('video')] );
     const button = document.querySelector('button');
     const score = document.getElementById('score');
-    let seenVideos = [];
+    let seenVideos = 0;
 
     button.addEventListener('click', function(){
       videos.forEach(video=>{ video.classList.remove('show'); video.pause(); video.currentTime = 0; });
-      const videoId = Math.floor(Math.random() * <%= videos.length %>);
-      const video = videos[videoId];
-      if(!seenVideos.includes(videoId)) seenVideos.push(videoId);
+      const video = videos[seenVideos % <%= videos.length %>];
+      seenVideos++;
       score.innerText = Math.round(seenVideos.length / <%= videos.length %> * 100);
       button.innerText = 'Shout at me again!';
       video.classList.add('show');
