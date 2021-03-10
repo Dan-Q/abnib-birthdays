@@ -82,7 +82,7 @@
       videos.forEach(video=>{ video.classList.remove('show'); video.pause(); video.currentTime = 0; });
       const video = videos[seenVideos % <%= videos.length %>];
       seenVideos++;
-      score.innerText = Math.round(seenVideos.length / <%= videos.length %> * 100);
+      score.innerText = Math.min( Math.round(seenVideos / <%= videos.length %> * 100), 100 );
       button.innerText = 'Shout at me again!';
       video.classList.add('show');
       video.play();
