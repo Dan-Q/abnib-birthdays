@@ -14,6 +14,10 @@ OR with Vagrant installed, run `vagrant up` to provision and launch a VM that ru
 
 For reasons of laziness, this same repo powers https://JenGetBackTo.Work/. See compiled file `jen.html` for the video player produced.
 
+## Abnib Quotes
+
+Long ago, we kept humourous quotes on the RockMonkey Wiki (you might be able to find otherwise lost ones in [this repo](https://github.com/rock-monkey/rock-monkey.github.io)). Later, we had a system called Abnib Quotes to store them. There were well over a thousand in its heyday, and a few of these - recovered using the WayBack Machine - can now be found at https://abnib.co.uk/quotes.html.
+
 ## License
 
 Licensed under GPLv3, in case you want to use this as the basis of a project of your own.
