@@ -9,8 +9,8 @@
   - claire_q
   - irc
 - :old_id: 2
-  :text: "Paul Mann: Did you just spill my pint, Rockboy?\nAndy Keohane: no I picked
-    it up drained it and broke the glass on your face you third rate idiot       \n(Note:
+  :text: "Paul Mann: Did you just spill my pint, Rockboy?<br>\nAndy Keohane: no I picked
+    it up drained it and broke the glass on your face you third rate idiot       <br>\n(Note:
     Didn't actually happen)- because if rockmonkey drained a pint he'd probably fall
     over"
   :created_at: '2007-10-23 16:18:44'
@@ -63,10 +63,10 @@
   - geography
 - :old_id: 9
   :text: "Faye Bromilow: you seen this (points to article about Paul McCartney and
-    Heather Mills spliting up).\nAndy Keohane: Thats a little wierd anyway he's what
-    25 years older than her? When he was out touring she could barely walk.\nFaye
-    Bromilow: (waits for Andy to realise what he's just said)\nAndy Keohane: that
-    sounds really harsh actually didn't it?\n(For those of you still not getting this
+    Heather Mills spliting up).<br>\nAndy Keohane: Thats a little wierd anyway he's what
+    25 years older than her? When he was out touring she could barely walk.<br>\nFaye
+    Bromilow: (waits for Andy to realise what he's just said)<br>\nAndy Keohane: that
+    sounds really harsh actually didn't it?<br>\n(For those of you still not getting this
     Heather Mills lost a leg in 1993) "
   :created_at: '2007-10-23 16:20:11'
   :tags:
@@ -109,8 +109,8 @@
   - suz_chilestone
   - food
 - :old_id: 25
-  :text: "Discussing why we're still waiting for the pizza \nBryn Salisbury: Well,
-    they did say 45 minutes... how long has it been?\nPaul Mann: about 40 minutes\nBryn
+  :text: "Discussing why we're still waiting for the pizza <br>\nBryn Salisbury: Well,
+    they did say 45 minutes... how long has it been?<br>\nPaul Mann: about 40 minutes<br>\nBryn
     Salisbury: Let's give them another 5 minutes then"
   :created_at: '2007-10-31 08:47:09'
   :tags:
@@ -1167,8 +1167,8 @@
   - irc
   - iggy
 - :old_id: 290
-  :text: "&lt;Bryn Salisbury&gt; slacker\n&lt;Gareth Bowker&gt; no, procrastinator.
-    there's a difference =)\n&lt;Gareth Bowker&gt; I know, because I looked it up
+  :text: "&lt;Bryn Salisbury&gt; slacker<br>\n&lt;Gareth Bowker&gt; no, procrastinator.
+    there's a difference =)<br>\n&lt;Gareth Bowker&gt; I know, because I looked it up
     while I should have been doing something else ;) "
   :created_at: '2007-11-01 09:09:28'
   :tags:
@@ -1176,10 +1176,10 @@
   - bryn_salisbury
   - tgb
 - :old_id: 291
-  :text: "&lt;Dan Q&gt; Iggy, who would win in a fight between Ava and Bryn?\n* Dan
-    Q sharpens weapons\n&lt;Igneous&gt; Claire Melton. \n&lt;Dan Q&gt; Oh.\n&lt;Bryn
-    Salisbury&gt; hehe\n&lt;Dan Q&gt; Okay.\n&lt;Gareth&gt; Iggy's got a point\n&lt;Bryn
-    Salisbury&gt; he/she/it is probably right\n&lt;Igneous&gt; Huzzah!"
+  :text: "&lt;Dan Q&gt; Iggy, who would win in a fight between Ava and Bryn?<br>\n* Dan
+    Q sharpens weapons<br>\n&lt;Igneous&gt; Claire Melton. <br>\n&lt;Dan Q&gt; Oh.<br>\n&lt;Bryn
+    Salisbury&gt; hehe<br>\n&lt;Dan Q&gt; Okay.<br>\n&lt;Gareth&gt; Iggy's got a point<br>\n&lt;Bryn
+    Salisbury&gt; he/she/it is probably right<br>\n&lt;Igneous&gt; Huzzah!"
   :created_at: '2007-11-01 09:10:19'
   :tags:
   - dan_q
@@ -1189,8 +1189,8 @@
   - bryn_salisbury
   - tgb
 - :old_id: 292
-  :text: "Sian Thomas are you a lesbian iggy?\n&lt;Igneous&gt; only because my tampon
-    fell off \n&lt;Dan Huntley&gt; ROFLMAO"
+  :text: "Sian Thomas are you a lesbian iggy?<br>\n&lt;Igneous&gt; only because my tampon
+    fell off <br>\n&lt;Dan Huntley&gt; ROFLMAO"
   :created_at: '2007-11-01 09:11:10'
   :tags:
   - sian_thomas
@@ -1206,8 +1206,8 @@
   - dan_q
   - iggy
 - :old_id: 294
-  :text: "&lt;rockmonky&gt; iggy, JTA is a confused WordMonkey \n&lt;rockmonky&gt;
-    iggy what is JTA? \n&lt;Igneous&gt; A jangling submissive i think. "
+  :text: "&lt;rockmonky&gt; iggy, JTA is a confused WordMonkey <br>\n&lt;rockmonky&gt;
+    iggy what is JTA? <br>\n&lt;Igneous&gt; A jangling submissive i think. "
   :created_at: '2007-11-01 09:16:35'
   :tags:
   - andy_k
@@ -1233,18 +1233,18 @@
   - irc
   - sex
 - :old_id: 298
-  :text: "&lt;Igneous&gt; Ruthvarle you're looking especially shagworthy today \n&lt;Ruthvarle&gt;
-    Why, thank you Iggy.\n* Ruthvarle goes to find clothes."
+  :text: "&lt;Igneous&gt; Ruthvarle you're looking especially shagworthy today <br>\n&lt;Ruthvarle&gt;
+    Why, thank you Iggy.<br>\n* Ruthvarle goes to find clothes."
   :created_at: '2007-11-01 09:20:03'
   :tags:
   - iggy
   - ruth_varley
   - irc
 - :old_id: 299
-  :text: "&lt;Claire Q&gt; Iggy what is Igneous?\n&lt;Igneous&gt; I think it's a parrot.
-    \n&lt;Jimmy Carter&gt; He seems fixed on the parrot idea...\n&lt;Bryn Salisbury&gt;
-    seems strangely appropriate\n&lt;Jimmy Carter&gt; Iggy, are you just a parrot?\n&lt;Igneous&gt;
-    yes and i wont stop till my mouth bounces off! \n&lt;Jimmy Carter&gt; I think
+  :text: "&lt;Claire Q&gt; Iggy what is Igneous?<br>\n&lt;Igneous&gt; I think it's a parrot.
+    <br>\n&lt;Jimmy Carter&gt; He seems fixed on the parrot idea...<br>\n&lt;Bryn Salisbury&gt;
+    seems strangely appropriate<br>\n&lt;Jimmy Carter&gt; Iggy, are you just a parrot?<br>\n&lt;Igneous&gt;
+    yes and i wont stop till my mouth bounces off! <br>\n&lt;Jimmy Carter&gt; I think
     that settles it."
   :created_at: '2007-11-01 09:21:28'
   :tags:
@@ -1254,8 +1254,8 @@
   - jimmy_carter
   - bryn_salisbury
 - :old_id: 300
-  :text: "* Dan Q has joined #RockMonkey \n&lt;Ruth Varley&gt; Boo! \n* Dan Q has
-    quit (EOF From client) \n&lt;Ruth Varley&gt; Aw, I scared him"
+  :text: "* Dan Q has joined #RockMonkey <br>\n&lt;Ruth Varley&gt; Boo! <br>\n* Dan Q has
+    quit (EOF From client) <br>\n&lt;Ruth Varley&gt; Aw, I scared him"
   :created_at: '2007-11-01 09:22:03'
   :tags:
   - dan_q
@@ -1656,8 +1656,8 @@
   - ruth_varley
   - jta
 - :old_id: 377
-  :text: "Claire Q: You need a wireless booster thingy, like a repeater speaker.\nJTA:
-    An internet parrot. \nJTA: Polly want a packet?"
+  :text: "Claire Q: You need a wireless booster thingy, like a repeater speaker.<br>\nJTA:
+    An internet parrot. <br>\nJTA: Polly want a packet?"
   :created_at: '2007-11-13 04:00:46'
   :tags:
   - jta
@@ -2487,7 +2487,7 @@
   - food
   - antisocial
 - :old_id: 544
-  :text: "Sarah Seaton: What's mutton made from?\nMatt Payne: Lamb\nSarah Seaton:
+  :text: "Sarah Seaton: What's mutton made from?<br>\nMatt Payne: Lamb<br>\nSarah Seaton:
     \ I thought it was baby cow...fish. "
   :created_at: '2008-02-01 09:52:08'
   :tags:
@@ -3197,8 +3197,8 @@
   - gay
   - eurovision
 - :old_id: 634
-  :text: "Dan: Have you ever played Chronotron?\nDan: It's spelt just like you'd think.\nDan:
-    C, h... \nDan: um... er... r?"
+  :text: "Dan: Have you ever played Chronotron?<br>\nDan: It's spelt just like you'd think.<br>\nDan:
+    C, h... <br>\nDan: um... er... r?"
   :created_at: '2008-06-05 14:24:51'
   :tags:
   - dan_q
@@ -3216,8 +3216,8 @@
   - english
   - fail
 - :old_id: 638
-  :text: "Claire has been talking about extradition laws\n&lt;Dan Q&gt;\t[citation
-    needed]\n&lt;Ruth Varley&gt;\tDan Q: Bringing moderation to #rockmonkey\n&lt;Ruth
+  :text: "Claire has been talking about extradition laws<br>\n&lt;Dan Q&gt;\t[citation
+    needed]<br>\n&lt;Ruth Varley&gt;\tDan Q: Bringing moderation to #rockmonkey<br>\n&lt;Ruth
     Varley&gt;\tNow there's a sentence I never thought I'd type"
   :created_at: '2008-07-04 03:16:12'
   :tags:
