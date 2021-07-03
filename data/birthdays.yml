@@ -55,7 +55,7 @@ bryony:
   day: 4
   month: 7
   year: 2016
-  via: Liz
+  via: Liz or Simon
 
 claire:
   name: Claire
@@ -285,4 +285,3 @@ liz_simon:
   day: 13
   month: 8
   year: 2011
-  via: Liz
