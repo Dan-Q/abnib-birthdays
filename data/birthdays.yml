@@ -181,6 +181,12 @@ peter:
   month: 10
   via: Faye
 
+rory:
+  name: Rory
+  day: 27
+  month: 4
+  year: 1981
+
 ruth:
   name: Ruth
   day: 26
