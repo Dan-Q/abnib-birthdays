@@ -175,6 +175,7 @@ penny:
   name: Penny
   day: 9
   month: 9
+  year: 1987
 
 peter:
   name: Peter
