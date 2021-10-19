@@ -2,7 +2,7 @@
 <birthdays>
   <% birthdays.each do |birthday| %>
     <birthday>
-      <name><%= describe_birthday(birthday) %></name>
+      <name><![CDATA[ <%= describe_birthday(birthday) %> ]]></name>
       <date><%= birthday['date'].strftime('%A %-d %B %Y') %></date>
       <datetime><%= birthday['date'] %></datetime>
     </birthday>
