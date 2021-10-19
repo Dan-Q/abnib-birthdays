@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<birthdays>
+  <% birthdays.each do |birthday| %>
+    <birthday>
+      <name><%= describe_birthday(birthday) %></name>
+      <date><%= birthday['date'].strftime('%A %-d %B %Y') %></date>
+      <datetime><%= birthday['date'] %></datetime>
+    </birthday>
+  <% end %>
+</birthdays>
