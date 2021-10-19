@@ -102,7 +102,7 @@ helpers do
         Date.new(next_birthday_year, birthday.month, birthday.day)
       rescue Date::Error => e
         raise e unless birthday.month == 2 && birthday.day == 29
-        # catch date errors where the celebrant was born on a leap day and celebrate their birthday on 3 March instead
+        # catch date errors where the celebrant was born on a leap day and celebrate their birthday on 1 March instead
         Date.new(next_birthday_year, 3, 1)
       end
       birthday['age'] = next_birthday_year - birthday.year if birthday.year
