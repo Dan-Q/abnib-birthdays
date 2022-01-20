@@ -319,7 +319,7 @@ liz_simon:
 
 troma_night_i:
   type: event anniversary
-  name: {n} years today since Troma Night I
+  name: "{n} years today since Troma Night I"
   day: 19
   month: 4
   year: 2003
