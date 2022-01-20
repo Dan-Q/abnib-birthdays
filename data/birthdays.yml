@@ -151,6 +151,12 @@ liz:
   month: 11
   year: 1982
 
+lorcan:
+  name: Lorcán
+  day: 20
+  month: 1
+  via: Jen
+
 martin:
   name: Martin
   day: 15
@@ -209,7 +215,7 @@ ruth:
 #   year: 1985
 
 sian:
-  name: Sian
+  name: Siân
   day: 14
   month: 3
   year: 1983
@@ -310,3 +316,10 @@ liz_simon:
   day: 13
   month: 8
   year: 2011
+
+troma_night_i:
+  type: event anniversary
+  name: {n} years today since Troma Night I
+  day: 19
+  month: 4
+  year: 2003

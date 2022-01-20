@@ -36,7 +36,9 @@ page '/*.txt', layout: false
 # https://middlemanapp.com/basics/helper-methods/
 
 REMINDER_FREQUENCIES = {
-  'wedding anniversary' => [0]
+  'wedding anniversary'      => [0],
+  'relationship anniversary' => [0],
+  'event anniversary'        => [0]
 }
 
 helpers do
