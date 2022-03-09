@@ -220,6 +220,11 @@ sian:
   month: 3
   year: 1983
 
+simon:
+  name: Simon
+  day: 9
+  month: 3
+
 suz:
   name: Suz
   day: 21
