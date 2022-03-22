@@ -62,3 +62,9 @@ penny:
   who: Penny
   lng: -1.0406
   lat: 51.4579
+
+ele:
+  who: Ele
+  lng: -2.1252
+  lat: 51.8862
+  
