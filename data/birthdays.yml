@@ -207,11 +207,11 @@ ruth:
   month: 10
   year: 1984
 
-sundeep:
-  name: Sundeep
-  day: 13
-  month: 4
-  year: 1985
+#sundeep:
+#  name: Sundeep
+#  day: 13
+#  month: 4
+#  year: 1985
 
 sian:
   name: Siân
