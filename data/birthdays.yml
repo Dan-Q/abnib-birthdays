@@ -192,7 +192,7 @@ peter:
   day: 12
   month: 10
   year: 2018
-  via: Faye
+  via: Faye or Andy K
 
 rory:
   name: Rory
@@ -266,7 +266,6 @@ andy_k_faye:
   day: 14
   month: 8
   year: 2010
-  via: Faye
 
 claire_jimmy:
   type: wedding anniversary
