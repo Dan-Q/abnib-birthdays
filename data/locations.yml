@@ -9,7 +9,7 @@ the_green:
   lat: 51.7573889
 
 york:
-  who: Gareth, Matt R
+  who: Matt R
   lng: -1.080278
   lat: 53.958333
 
@@ -67,4 +67,8 @@ ele:
   who: Ele
   lat: -41.2924
   lng: 174.7787
-  
+
+tgb:
+  who: Gareth
+  lat: 51.45000
+  lng: -3.26500
