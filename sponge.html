@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>THROW THE SPONGE! | abnib</title>
+  <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <style type="text/css">
+    @font-face {
+      font-family: 'Monoton';
+      font-style: normal;
+      font-weight: 400;
+      src: local('Monoton'), local('Monoton-Regular'), url('fonts/monoton-v10-latin-regular.woff2') format('woff2'), url('fonts/monoton-v10-latin-regular.woff') format('woff');
+      font-display: block;
+    }
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      line-height: 1.8;
+      display: flex;
+      flex-direction: column;
+      font-size: 18px;
+      background: #fff;
+      color: #333;
+    }
+    header, main, footer {
+      padding: 0.5rem 1rem;
+    }
+    header {
+      font-family: 'Monoton', sans-serif;
+      color: white;
+      background: #592b0f linear-gradient(#bf6b00, #592b0f);
+      text-align: center;
+    }
+    main {
+      width: min(1920px, 90vw);
+      align-self: center;
+    }
+    footer {
+      background: #ddd;
+    }
+    footer ul {
+      display: flex;
+      justify-content: space-around;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    a {
+      color: #2626ca;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #e40f0f;
+    }
+    h1 {
+      font-size: 6rem;
+      font-weight: normal;
+      line-height: 1;
+    }
+    h1, h2, h3, h4 {
+      margin: 0.25em 0;
+    }
+
+    article {
+      padding: 1rem 2rem;
+      border: 0.25rem solid #592b0f;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>abnib sponge</h1>
+  </header>
+
+  <main>
+    <h2>Throw the sponge!</h2>
+
+    <div style="position: relative; width: 100%; padding-top: 75%;"><iframe style="position: absolute; top: 0; left; 0; width: 100%; height: 100%;" src="https://videopress.com/embed/ekV0QCxE?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" sandbox="allow-same-origin allow-scripts" allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0"></iframe><noscript><iframe style="position: absolute; top: 0; left; 0; width: 100%; height: 100%;" src="https://videopress.com/embed/ekV0QCxE?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" frameborder="0" sandbox="allow-same-origin allow-scripts" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></noscript></div>
+
+    <p>
+      You're probably looking to hang out at <a href="https://abnib.co.uk/">Abnib Home</a>, where the birthdays are.
+    </p>
+  </main>
+
+  <footer>
+    <ul>
+      <li>
+        a <a href="https://things.danq.me/">Dan Q thing</a> | updated 16 Dec 2023 13:58 UTC | <a href="https://github.com/Dan-Q/abnib-birthdays/">source</a>
+      </li>
+    </ul>
+  </footer>
+
+  <script type="text/javascript">
+    const quotes =  [...document.querySelectorAll('article')];
+    const epochDayNumber = Math.floor((new Date()).getTime() / 86400000);
+    const todaysQuoteId = epochDayNumber % quotes.length;
+    const todaysQuote = quotes[todaysQuoteId];
+    const intro = document.createElement('p');
+    intro.innerText = 'Quote of the day:';
+    quotes.splice( todaysQuoteId, 1 );
+    quotes.forEach( q => q.remove() );
+    todaysQuote.parentNode.insertBefore( intro, todaysQuote );
+  </script>
+</body>
+</html>

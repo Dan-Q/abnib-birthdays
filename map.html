@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>abnib map</title>
+  <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+  <style type="text/css">
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      line-height: 1.8;
+      display: flex;
+      flex-direction: column;
+      font-size: 18px;
+      background: #fff;
+      color: #333;
+    }
+    main {
+      width: 100vw;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+  <main id="map">
+  </main>
+
+  <script type="text/javascript">
+    const map = L.map('map').setView([54, -4], 6);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {foo: 'bar', attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors | <a href="https://github.com/Dan-Q/abnib-birthdays/blob/main/data/locations.yml">Data source</a>'}).addTo(map);
+    let marker;
+      // #<Middleman::Util::EnhancedHash lat=52.414 lng=-4.081 who="Our home in times gone by">
+      marker = L.marker([52.414, -4.081]).addTo(map);
+      marker.bindPopup("Our home in times gone by");
+      // #<Middleman::Util::EnhancedHash lat=51.7573889 lng=-1.4012429 who="Dan, Ruth, JTA">
+      marker = L.marker([51.7573889, -1.4012429]).addTo(map);
+      marker.bindPopup("Dan, Ruth, JTA");
+      // #<Middleman::Util::EnhancedHash lat=53.958333 lng=-1.080278 who="Matt R">
+      marker = L.marker([53.958333, -1.080278]).addTo(map);
+      marker.bindPopup("Matt R");
+      // #<Middleman::Util::EnhancedHash lat=52.37 lng=-1.26 who="Helen, Pete">
+      marker = L.marker([52.37, -1.26]).addTo(map);
+      marker.bindPopup("Helen, Pete");
+      // #<Middleman::Util::EnhancedHash lat=51.507222 lng=-0.1275 who="Bryn">
+      marker = L.marker([51.507222, -0.1275]).addTo(map);
+      marker.bindPopup("Bryn");
+      // #<Middleman::Util::EnhancedHash lat=51.478889 lng=-0.293611 who="Matt">
+      marker = L.marker([51.478889, -0.293611]).addTo(map);
+      marker.bindPopup("Matt");
+      // #<Middleman::Util::EnhancedHash lat=54.3158214 lng=-5.7213811 who="Jen">
+      marker = L.marker([54.3158214, -5.7213811]).addTo(map);
+      marker.bindPopup("Jen");
+      // #<Middleman::Util::EnhancedHash lat=51.876 lng=-2.214 who="Claire, Jimmy">
+      marker = L.marker([51.876, -2.214]).addTo(map);
+      marker.bindPopup("Claire, Jimmy");
+      // #<Middleman::Util::EnhancedHash lat=51.48 lng=-3.154 who="Andy R, Sian">
+      marker = L.marker([51.48, -3.154]).addTo(map);
+      marker.bindPopup("Andy R, Sian");
+      // #<Middleman::Util::EnhancedHash lat=52.708 lng=-2.754 who="Andy K, Faye">
+      marker = L.marker([52.708, -2.754]).addTo(map);
+      marker.bindPopup("Andy K, Faye");
+      // #<Middleman::Util::EnhancedHash lat=51.61 lng=-1.49 who="Alec, Suz">
+      marker = L.marker([51.61, -1.49]).addTo(map);
+      marker.bindPopup("Alec, Suz");
+      // #<Middleman::Util::EnhancedHash lat=56.154852 lng=-3.741941 who="Kit">
+      marker = L.marker([56.154852, -3.741941]).addTo(map);
+      marker.bindPopup("Kit");
+      // #<Middleman::Util::EnhancedHash lat=51.4579 lng=-1.0406 who="Penny">
+      marker = L.marker([51.4579, -1.0406]).addTo(map);
+      marker.bindPopup("Penny");
+      // #<Middleman::Util::EnhancedHash lat=-41.2924 lng=174.7787 who="Ele">
+      marker = L.marker([-41.2924, 174.7787]).addTo(map);
+      marker.bindPopup("Ele");
+      // #<Middleman::Util::EnhancedHash lat=51.45 lng=-3.265 who="Gareth">
+      marker = L.marker([51.45, -3.265]).addTo(map);
+      marker.bindPopup("Gareth");
+      // #<Middleman::Util::EnhancedHash lat=51.79481 lng=-0.65831 who="Liz, Simon">
+      marker = L.marker([51.79481, -0.65831]).addTo(map);
+      marker.bindPopup("Liz, Simon");
+  </script>
+</body>
+</html>

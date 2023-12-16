@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en_GB">
+<head>
+  <meta charset="utf-8">
+  <title>Jen! Get back to work!</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Stop procrastinating, Jen! Everybody's telling you to get back to work!">
+  <meta property="og:title" content="Jen! Get back to work!">
+  <meta property="og:url" content="https://JenGetBackTo.Work/">
+  <meta property="og:description" content="Stop procrastinating, Jen! Everybody's telling you to get back to work!">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_GB">
+  <meta property="og:image" itemprop="image" content="//jengetbackto.work/jen-videos/jen-open-graph-preview.png">
+  <meta property="og:image:width" content="600">
+  <meta property="og:image:height" content="400">
+  <meta property="og:image:secure_url" itemprop="image" content="https://jengetbackto.work/jen-videos/jen-open-graph-preview.png">
+  <meta property="og:image:secure_url:width" content="600">
+  <meta property="og:image:secure_url:height" content="400">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="jengetbackto.work">
+  <meta property="twitter:url" content="https://jengetbackto.work/">
+  <meta name="twitter:title" content="Jen! Get back to work!">
+  <meta name="twitter:description" content="Stop procrastinating, Jen! Everybody's telling you to get back to work!">
+  <meta name="twitter:image" content="//jengetbackto.work/jen-videos/jen-open-graph-preview.png">
+  <style type="text/css">
+    body {
+      background: black;
+      color: white;
+      display: grid;
+      font-family: sans-serif;
+      grid-template-rows: 48px 1fr 48px;
+      height: 100vh;
+      justify-content: center;
+      margin: 0;
+      overflow: hidden;
+      width: 100vw;
+      font-size: 16px;
+    }
+    button {
+      all: unset;
+      background: #add8e6;
+      border-radius: 12px 12px 0 0;
+      color: black;
+      cursor: pointer;
+      font-family: sans-serif;
+      font-size: 28px;
+      line-height: 42px;
+      margin: 3px 0;
+      padding: 0 4rem;
+      text-align: center;
+    }
+    button:hover {
+      background: #6fb5cc;
+    }
+    video {
+      display: none;
+      max-width: 100vw;
+      max-height: calc(100vh - 48px - 48px);
+    }
+    .show {
+      display: block;
+    }
+    footer {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <button>Loading... please wait...</button>
+
+  <main>
+    <video width="1280" height="720" playsinline><source src="jen-videos/mattp2.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/dermot1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/helen1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/sian1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/liz3.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/dan3.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/sian2.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/claire2.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/mattp3.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/mattp1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/jta1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/andy1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/dan2.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/liz2.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/claire1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/gareth1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/dermot3.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/dermot2.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/colin1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/dan1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/jta2.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/liz1.mp4" type="video/mp4"></video>
+    <video width="1280" height="720" playsinline><source src="jen-videos/robin1.mp4" type="video/mp4"></video>
+  </main>
+
+  <footer>
+    Your tolerance for being shouted at: <span id="score">0</span>%.
+  </footer>
+
+  <script type="text/javascript">
+    /* Fisher-Yates */
+    function shuffle(array) {
+      let i = 0, j = 0, temp = null;
+      for (i = array.length - 1; i > 0; i -= 1) {
+        j = Math.floor(Math.random() * (i + 1));
+        temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+      }
+      return array;
+    }
+
+    const videos = shuffle( [...document.querySelectorAll('video')] );
+    const button = document.querySelector('button');
+    const score = document.getElementById('score');
+    let seenVideos = 0;
+
+    button.addEventListener('click', function(){
+      videos.forEach(video=>{ video.classList.remove('show'); video.pause(); video.currentTime = 0; });
+      const video = videos[seenVideos % 23];
+      seenVideos++;
+      score.innerText = Math.min( Math.round(seenVideos / 23 * 100), 100 );
+      button.innerText = 'Shout at me again!';
+      video.classList.add('show');
+      video.play();
+    });
+
+    button.innerText = 'Shout at me!';
+  </script>
+</body>
+</html>
