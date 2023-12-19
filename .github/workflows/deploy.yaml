@@ -36,6 +36,9 @@ jobs:
       - name: Build Middleman
         run: bundle exec middleman build
 
+      - name: Assign domain name
+        run: echo "abnib.co.uk" > build/CNAME
+
       - name: Deploy to Github Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
