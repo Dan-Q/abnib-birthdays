@@ -5,9 +5,21 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 28 Dec 2023 18:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 00:03:19 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+      <item>
+        <title>Jen's 39th birthday is in 7 days</title>
+        <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">jen-2024-7@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#jen-2024-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Friday 5 January 2024.
+        ]]></description>
+        <abnib:longdesc>
+          Jen's 39th birthday is on Friday 5 January 2024.
+        </abnib:longdesc>
+      </item>
   </channel>
 </rss>
