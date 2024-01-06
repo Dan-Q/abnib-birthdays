@@ -5,22 +5,10 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Fri, 05 Jan 2024 18:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 00:03:40 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title>Jen's 39th birthday is in 7 days</title>
-        <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">jen-2024-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#jen-2024-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Friday 5 January 2024.
-        ]]></description>
-        <abnib:longdesc>
-          Jen's 39th birthday is on Friday 5 January 2024.
-        </abnib:longdesc>
-      </item>
       <item>
         <title>Annabel's 10th birthday is in 7 days</title>
         <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
@@ -47,27 +35,16 @@
         </abnib:longdesc>
       </item>
       <item>
-        <title>Jen's 39th birthday is tomorrow</title>
-        <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">jen-2024-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#jen-2024-1@birthdays.abnib.co.uk</link>
+        <title>Annabel's 10th birthday is tomorrow</title>
+        <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">annabel-2024-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#annabel-2024-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
-          It's on Friday 5 January 2024.
+          It's on Sunday 7 January 2024.
+            On WhatsApp? Send greetings via Dan, JTA or Ruth.
         ]]></description>
         <abnib:longdesc>
-          Jen's 39th birthday is on Friday 5 January 2024.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Jen's 39th birthday is today</title>
-        <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">jen-2024-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#jen-2024-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Friday 5 January 2024.
-        ]]></description>
-        <abnib:longdesc>
-          Jen's 39th birthday is on Friday 5 January 2024.
+          Annabel's 10th birthday is on Sunday 7 January 2024.
         </abnib:longdesc>
       </item>
   </channel>
