@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <birthdays>
     <birthday>
-      <name><![CDATA[ Lorcán's birthday ]]></name>
-      <date>Saturday 20 January 2024</date>
-      <datetime>2024-01-20</datetime>
-    </birthday>
-    <birthday>
       <name><![CDATA[ Andy R & Sian's 14th (ivory) wedding anniversary ]]></name>
       <date>Monday 22 January 2024</date>
       <datetime>2024-01-22</datetime>
@@ -219,5 +214,10 @@
       <name><![CDATA[ Martin's 7th birthday ]]></name>
       <date>Wednesday 15 January 2025</date>
       <datetime>2025-01-15</datetime>
+    </birthday>
+    <birthday>
+      <name><![CDATA[ Lorcán's birthday ]]></name>
+      <date>Monday 20 January 2025</date>
+      <datetime>2025-01-20</datetime>
     </birthday>
 </birthdays>
