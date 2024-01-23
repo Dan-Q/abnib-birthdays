@@ -5,21 +5,9 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Mon, 22 Jan 2024 18:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 00:03:49 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title>Andy R & Sian's 14th (ivory) wedding anniversary is today</title>
-        <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">andy_r_sian-2024-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#andy_r_sian-2024-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Monday 22 January 2024.
-        ]]></description>
-        <abnib:longdesc>
-          Andy R & Sian's 14th (ivory) wedding anniversary is on Monday 22 January 2024.
-        </abnib:longdesc>
-      </item>
   </channel>
 </rss>
