@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <birthdays>
     <birthday>
-      <name><![CDATA[ Matt P's 40th birthday ]]></name>
-      <date>Monday 5 February 2024</date>
-      <datetime>2024-02-05</datetime>
-    </birthday>
-    <birthday>
       <name><![CDATA[ Alec's 41st birthday ]]></name>
       <date>Saturday 17 February 2024</date>
       <datetime>2024-02-17</datetime>
@@ -219,5 +214,10 @@
       <name><![CDATA[ Andy R & Sian's 15th (crystal) wedding anniversary ]]></name>
       <date>Wednesday 22 January 2025</date>
       <datetime>2025-01-22</datetime>
+    </birthday>
+    <birthday>
+      <name><![CDATA[ Matt P's 41st birthday ]]></name>
+      <date>Wednesday 5 February 2025</date>
+      <datetime>2025-02-05</datetime>
     </birthday>
 </birthdays>
