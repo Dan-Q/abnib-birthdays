@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 15 Feb 2024 18:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 00:03:43 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -14,6 +14,18 @@
         <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">alec-2024-7@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#alec-2024-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Saturday 17 February 2024.
+        ]]></description>
+        <abnib:longdesc>
+          Alec's 41st birthday is on Saturday 17 February 2024.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Alec's 41st birthday is tomorrow</title>
+        <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">alec-2024-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#alec-2024-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Saturday 17 February 2024.
         ]]></description>
