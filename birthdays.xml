@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Tue, 12 Mar 2024 18:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 00:03:48 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -14,6 +14,18 @@
         <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">sian-2024-7@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#sian-2024-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Thursday 14 March 2024.
+        ]]></description>
+        <abnib:longdesc>
+          Siân's 41st birthday is on Thursday 14 March 2024.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Siân's 41st birthday is tomorrow</title>
+        <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">sian-2024-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#sian-2024-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Thursday 14 March 2024.
         ]]></description>
