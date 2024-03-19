@@ -5,9 +5,21 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Mon, 18 Mar 2024 18:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 00:03:38 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+      <item>
+        <title>Kit's 44th birthday is in 7 days</title>
+        <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">kit-2024-7@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#kit-2024-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Tuesday 26 March 2024.
+        ]]></description>
+        <abnib:longdesc>
+          Kit's 44th birthday is on Tuesday 26 March 2024.
+        </abnib:longdesc>
+      </item>
   </channel>
 </rss>
