@@ -5,9 +5,21 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 18 Apr 2024 18:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 00:03:50 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+      <item>
+        <title>21 years today since Troma Night I is today</title>
+        <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">troma_night_i-2024-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#troma_night_i-2024-0@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Friday 19 April 2024.
+        ]]></description>
+        <abnib:longdesc>
+          21 years today since Troma Night I is on Friday 19 April 2024.
+        </abnib:longdesc>
+      </item>
   </channel>
 </rss>
