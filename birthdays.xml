@@ -5,22 +5,10 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sat, 27 Apr 2024 18:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 00:04:44 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title>Rory's 43rd birthday is in 7 days</title>
-        <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">rory-2024-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#rory-2024-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Saturday 27 April 2024.
-        ]]></description>
-        <abnib:longdesc>
-          Rory's 43rd birthday is on Saturday 27 April 2024.
-        </abnib:longdesc>
-      </item>
       <item>
         <title>Bryn's 41st birthday is in 7 days</title>
         <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
@@ -31,30 +19,6 @@
         ]]></description>
         <abnib:longdesc>
           Bryn's 41st birthday is on Thursday 2 May 2024.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Rory's 43rd birthday is tomorrow</title>
-        <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">rory-2024-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#rory-2024-1@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Saturday 27 April 2024.
-        ]]></description>
-        <abnib:longdesc>
-          Rory's 43rd birthday is on Saturday 27 April 2024.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Rory's 43rd birthday is today</title>
-        <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">rory-2024-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#rory-2024-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Saturday 27 April 2024.
-        ]]></description>
-        <abnib:longdesc>
-          Rory's 43rd birthday is on Saturday 27 April 2024.
         </abnib:longdesc>
       </item>
   </channel>
