@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Wed, 29 May 2024 18:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 00:04:15 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -14,6 +14,18 @@
         <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">faye-2024-7@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#faye-2024-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Friday 31 May 2024.
+        ]]></description>
+        <abnib:longdesc>
+          Faye's birthday is on Friday 31 May 2024.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Faye's birthday is tomorrow</title>
+        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">faye-2024-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#faye-2024-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Friday 31 May 2024.
         ]]></description>
