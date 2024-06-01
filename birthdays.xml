@@ -5,45 +5,9 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Fri, 31 May 2024 18:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 00:03:58 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title>Faye's birthday is in 7 days</title>
-        <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">faye-2024-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#faye-2024-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Friday 31 May 2024.
-        ]]></description>
-        <abnib:longdesc>
-          Faye's birthday is on Friday 31 May 2024.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Faye's birthday is tomorrow</title>
-        <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">faye-2024-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#faye-2024-1@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Friday 31 May 2024.
-        ]]></description>
-        <abnib:longdesc>
-          Faye's birthday is on Friday 31 May 2024.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Faye's birthday is today</title>
-        <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">faye-2024-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#faye-2024-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Friday 31 May 2024.
-        ]]></description>
-        <abnib:longdesc>
-          Faye's birthday is on Friday 31 May 2024.
-        </abnib:longdesc>
-      </item>
   </channel>
 </rss>
