@@ -5,22 +5,10 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sun, 21 Jul 2024 18:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 00:04:07 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title>Suz's birthday is in 7 days</title>
-        <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">suz-2024-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#suz-2024-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Sunday 21 July 2024.
-        ]]></description>
-        <abnib:longdesc>
-          Suz's birthday is on Sunday 21 July 2024.
-        </abnib:longdesc>
-      </item>
       <item>
         <title>Andy K's birthday is in 7 days</title>
         <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
@@ -34,27 +22,27 @@
         </abnib:longdesc>
       </item>
       <item>
-        <title>Suz's birthday is tomorrow</title>
-        <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">suz-2024-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#suz-2024-1@birthdays.abnib.co.uk</link>
+        <title>Andy K's birthday is tomorrow</title>
+        <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">andy_k-2024-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#andy_k-2024-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
-          It's on Sunday 21 July 2024.
+          It's on Tuesday 23 July 2024.
         ]]></description>
         <abnib:longdesc>
-          Suz's birthday is on Sunday 21 July 2024.
+          Andy K's birthday is on Tuesday 23 July 2024.
         </abnib:longdesc>
       </item>
       <item>
-        <title>Suz's birthday is today</title>
-        <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">suz-2024-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#suz-2024-0@birthdays.abnib.co.uk</link>
+        <title>Andy R's 42nd birthday is in 7 days</title>
+        <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">andy_r-2024-7@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#andy_r-2024-7@birthdays.abnib.co.uk</link>
         <description><![CDATA[
-          It's on Sunday 21 July 2024.
+          It's on Monday 29 July 2024.
         ]]></description>
         <abnib:longdesc>
-          Suz's birthday is on Sunday 21 July 2024.
+          Andy R's 42nd birthday is on Monday 29 July 2024.
         </abnib:longdesc>
       </item>
   </channel>
