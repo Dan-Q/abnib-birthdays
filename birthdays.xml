@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sun, 28 Jul 2024 18:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 00:04:10 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -39,6 +39,18 @@
         <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">andy_r-2024-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#andy_r-2024-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Monday 29 July 2024.
+        ]]></description>
+        <abnib:longdesc>
+          Andy R's 42nd birthday is on Monday 29 July 2024.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Andy R's 42nd birthday is today</title>
+        <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">andy_r-2024-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#andy_r-2024-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Monday 29 July 2024.
         ]]></description>
