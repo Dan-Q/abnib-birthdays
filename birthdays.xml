@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Mon, 26 Aug 2024 18:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 00:04:06 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -44,6 +44,18 @@
         ]]></description>
         <abnib:longdesc>
           Iona's 4th birthday is on Monday 2 September 2024.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Gareth's 46th birthday is today</title>
+        <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">gareth-2024-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#gareth-2024-0@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Tuesday 27 August 2024.
+        ]]></description>
+        <abnib:longdesc>
+          Gareth's 46th birthday is on Tuesday 27 August 2024.
         </abnib:longdesc>
       </item>
   </channel>
