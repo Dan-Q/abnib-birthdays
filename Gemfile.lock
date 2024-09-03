@@ -90,9 +90,11 @@ GEM
       ffi (~> 1.0)
     ref (2.0.0)
     rexml (3.3.6)
+      strscan
     sassc (2.4.0)
       ffi (~> 1.9)
     servolux (0.13.0)
+    strscan (3.1.0)
     temple (0.10.3)
     therubyracer (0.12.3)
       libv8 (~> 3.16.14.15)
