@@ -212,11 +212,11 @@ DTEND;VALUE=DATE:20250601
 SUMMARY:Faye's birthday
 END:VEVENT
 BEGIN:VEVENT
-UID:claire@birthdays.abnib.co.uk
+UID:ash@birthdays.abnib.co.uk
 DTSTAMP:20240903T000000Z
 DTSTART;VALUE=DATE:20250616
 DTEND;VALUE=DATE:20250617
-SUMMARY:Claire's birthday
+SUMMARY:Ash's birthday
 END:VEVENT
 BEGIN:VEVENT
 UID:bryony@birthdays.abnib.co.uk
