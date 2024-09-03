@@ -13,6 +13,11 @@
 #  month: 3
 #  year: 1979
 
+ash:
+  name: Ash
+  day: 16
+  month: 6
+
 alec:
   name: Alec
   day: 17
@@ -56,11 +61,6 @@ bryony:
   month: 7
   year: 2016
   via: Liz or Simon
-
-claire:
-  name: Claire
-  day: 16
-  month: 6
 
 colin:
   name: Colin (Scotch Pete)
