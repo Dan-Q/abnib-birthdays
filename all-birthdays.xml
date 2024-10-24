@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <birthdays>
     <birthday>
-      <name><![CDATA[ Fiona & Kit's 20th (porcelain/china) wedding anniversary ]]></name>
-      <date>Wednesday 23 October 2024</date>
-      <datetime>2024-10-23</datetime>
-    </birthday>
-    <birthday>
       <name><![CDATA[ Alec & Suz's 16th wedding anniversary ]]></name>
       <date>Friday 25 October 2024</date>
       <datetime>2024-10-25</datetime>
@@ -214,5 +209,10 @@
       <name><![CDATA[ Peter's 7th birthday ]]></name>
       <date>Sunday 12 October 2025</date>
       <datetime>2025-10-12</datetime>
+    </birthday>
+    <birthday>
+      <name><![CDATA[ Fiona & Kit's 21st wedding anniversary ]]></name>
+      <date>Thursday 23 October 2025</date>
+      <datetime>2025-10-23</datetime>
     </birthday>
 </birthdays>
