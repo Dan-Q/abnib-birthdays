@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Fri, 08 Nov 2024 18:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 00:04:15 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -22,15 +22,15 @@
         </abnib:longdesc>
       </item>
       <item>
-        <title>Claire & Jimmy's wedding anniversary is today</title>
-        <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">claire_jimmy-2024-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#claire_jimmy-2024-0@birthdays.abnib.co.uk</link>
+        <title>Liz's 42nd birthday is tomorrow</title>
+        <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">liz-2024-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#liz-2024-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
-          It's on Friday 8 November 2024.
+          It's on Sunday 10 November 2024.
         ]]></description>
         <abnib:longdesc>
-          Claire & Jimmy's wedding anniversary is on Friday 8 November 2024.
+          Liz's 42nd birthday is on Sunday 10 November 2024.
         </abnib:longdesc>
       </item>
   </channel>
