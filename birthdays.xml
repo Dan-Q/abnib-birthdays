@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sat, 04 Jan 2025 18:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 00:05:09 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -51,6 +51,18 @@
         <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">jen-2025-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#jen-2025-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Sunday 5 January 2025.
+        ]]></description>
+        <abnib:longdesc>
+          Jen's 40th birthday is on Sunday 5 January 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Jen's 40th birthday is today</title>
+        <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">jen-2025-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#jen-2025-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Sunday 5 January 2025.
         ]]></description>
