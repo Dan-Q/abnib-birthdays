@@ -5,22 +5,10 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sun, 05 Jan 2025 18:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 00:04:38 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title>Jen's 40th birthday is in 7 days</title>
-        <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">jen-2025-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#jen-2025-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Sunday 5 January 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Jen's 40th birthday is on Sunday 5 January 2025.
-        </abnib:longdesc>
-      </item>
       <item>
         <title>Annabel's 11th birthday is in 7 days</title>
         <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
@@ -47,27 +35,16 @@
         </abnib:longdesc>
       </item>
       <item>
-        <title>Jen's 40th birthday is tomorrow</title>
-        <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">jen-2025-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#jen-2025-1@birthdays.abnib.co.uk</link>
+        <title>Annabel's 11th birthday is tomorrow</title>
+        <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">annabel-2025-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#annabel-2025-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
-          It's on Sunday 5 January 2025.
+          It's on Tuesday 7 January 2025.
+            On WhatsApp? Send greetings via Dan or JTA.
         ]]></description>
         <abnib:longdesc>
-          Jen's 40th birthday is on Sunday 5 January 2025.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Jen's 40th birthday is today</title>
-        <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">jen-2025-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#jen-2025-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Sunday 5 January 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Jen's 40th birthday is on Sunday 5 January 2025.
+          Annabel's 11th birthday is on Tuesday 7 January 2025.
         </abnib:longdesc>
       </item>
   </channel>
