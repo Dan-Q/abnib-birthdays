@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Tue, 14 Jan 2025 18:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:04:06 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -40,6 +40,19 @@
         <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">martin-2025-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#martin-2025-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Wednesday 15 January 2025.
+            On WhatsApp? Send greetings via Claire or Jimmy.
+        ]]></description>
+        <abnib:longdesc>
+          Martin's 7th birthday is on Wednesday 15 January 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Martin's 7th birthday is today</title>
+        <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">martin-2025-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#martin-2025-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Wednesday 15 January 2025.
             On WhatsApp? Send greetings via Claire or Jimmy.
