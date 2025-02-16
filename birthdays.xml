@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sat, 15 Feb 2025 18:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 00:04:51 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -14,6 +14,18 @@
         <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">alec-2025-7@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#alec-2025-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Monday 17 February 2025.
+        ]]></description>
+        <abnib:longdesc>
+          Alec's 42nd birthday is on Monday 17 February 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Alec's 42nd birthday is tomorrow</title>
+        <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">alec-2025-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#alec-2025-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Monday 17 February 2025.
         ]]></description>
