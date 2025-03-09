@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sat, 08 Mar 2025 18:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 00:03:56 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,18 @@
         <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">simon-2025-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#simon-2025-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Sunday 9 March 2025.
+        ]]></description>
+        <abnib:longdesc>
+          Simon's birthday is on Sunday 9 March 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Simon's birthday is today</title>
+        <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">simon-2025-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#simon-2025-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Sunday 9 March 2025.
         ]]></description>
