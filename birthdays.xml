@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 13 Mar 2025 18:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 00:04:14 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,18 @@
         <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">sian-2025-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#sian-2025-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Friday 14 March 2025.
+        ]]></description>
+        <abnib:longdesc>
+          Siân's 42nd birthday is on Friday 14 March 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Siân's 42nd birthday is today</title>
+        <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">sian-2025-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#sian-2025-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Friday 14 March 2025.
         ]]></description>
