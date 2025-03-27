@@ -5,45 +5,9 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Wed, 26 Mar 2025 18:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 00:04:26 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title>Kit's 45th birthday is in 7 days</title>
-        <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">kit-2025-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#kit-2025-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Wednesday 26 March 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Kit's 45th birthday is on Wednesday 26 March 2025.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Kit's 45th birthday is tomorrow</title>
-        <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">kit-2025-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#kit-2025-1@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Wednesday 26 March 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Kit's 45th birthday is on Wednesday 26 March 2025.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Kit's 45th birthday is today</title>
-        <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">kit-2025-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#kit-2025-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Wednesday 26 March 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Kit's 45th birthday is on Wednesday 26 March 2025.
-        </abnib:longdesc>
-      </item>
   </channel>
 </rss>
