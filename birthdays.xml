@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 24 Apr 2025 18:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 00:05:00 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -19,6 +19,19 @@
         ]]></description>
         <abnib:longdesc>
           Rory's 44th birthday is on Sunday 27 April 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Bryn's 42nd birthday is in 7 days</title>
+        <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">bryn-2025-7@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#bryn-2025-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Friday 2 May 2025.
+            On WhatsApp? Send greetings via a non-Abnib channel.
+        ]]></description>
+        <abnib:longdesc>
+          Bryn's 42nd birthday is on Friday 2 May 2025.
         </abnib:longdesc>
       </item>
   </channel>
