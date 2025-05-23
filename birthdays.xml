@@ -5,45 +5,9 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 22 May 2025 18:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 00:05:03 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title>Emlyn's birthday is in 7 days</title>
-        <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">emlyn-2025-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#emlyn-2025-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Thursday 22 May 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Emlyn's birthday is on Thursday 22 May 2025.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Emlyn's birthday is tomorrow</title>
-        <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">emlyn-2025-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#emlyn-2025-1@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Thursday 22 May 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Emlyn's birthday is on Thursday 22 May 2025.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Emlyn's birthday is today</title>
-        <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">emlyn-2025-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#emlyn-2025-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Thursday 22 May 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Emlyn's birthday is on Thursday 22 May 2025.
-        </abnib:longdesc>
-      </item>
   </channel>
 </rss>
