@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 29 May 2025 18:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 00:05:15 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -14,6 +14,19 @@
         <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">faye-2025-7@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#faye-2025-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Saturday 31 May 2025.
+            On WhatsApp? Send greetings via Andy K.
+        ]]></description>
+        <abnib:longdesc>
+          Faye's birthday is on Saturday 31 May 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Faye's birthday is tomorrow</title>
+        <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">faye-2025-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#faye-2025-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Saturday 31 May 2025.
             On WhatsApp? Send greetings via Andy K.
