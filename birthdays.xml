@@ -5,44 +5,20 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sun, 13 Jul 2025 18:01:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 00:05:31 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
       <item>
-        <title>Colin (Scotch Pete)'s birthday is in 7 days</title>
-        <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">colin-2025-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#colin-2025-7@birthdays.abnib.co.uk</link>
+        <title>Suz's birthday is in 7 days</title>
+        <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">suz-2025-7@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#suz-2025-7@birthdays.abnib.co.uk</link>
         <description><![CDATA[
-          It's on Sunday 13 July 2025.
+          It's on Monday 21 July 2025.
         ]]></description>
         <abnib:longdesc>
-          Colin (Scotch Pete)'s birthday is on Sunday 13 July 2025.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Colin (Scotch Pete)'s birthday is tomorrow</title>
-        <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">colin-2025-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#colin-2025-1@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Sunday 13 July 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Colin (Scotch Pete)'s birthday is on Sunday 13 July 2025.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Colin (Scotch Pete)'s birthday is today</title>
-        <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">colin-2025-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#colin-2025-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Sunday 13 July 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Colin (Scotch Pete)'s birthday is on Sunday 13 July 2025.
+          Suz's birthday is on Monday 21 July 2025.
         </abnib:longdesc>
       </item>
   </channel>
