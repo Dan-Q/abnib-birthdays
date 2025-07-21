@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sun, 20 Jul 2025 18:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 00:05:58 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -38,6 +38,18 @@
         <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">suz-2025-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#suz-2025-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Monday 21 July 2025.
+        ]]></description>
+        <abnib:longdesc>
+          Suz's birthday is on Monday 21 July 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Suz's birthday is today</title>
+        <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">suz-2025-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#suz-2025-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Monday 21 July 2025.
         ]]></description>
