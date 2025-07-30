@@ -5,22 +5,10 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Tue, 29 Jul 2025 18:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 00:05:38 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title>Andy R's 43rd birthday is in 7 days</title>
-        <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">andy_r-2025-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#andy_r-2025-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Tuesday 29 July 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Andy R's 43rd birthday is on Tuesday 29 July 2025.
-        </abnib:longdesc>
-      </item>
       <item>
         <title>Tabitha's 6th birthday is in 7 days</title>
         <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
@@ -35,27 +23,15 @@
         </abnib:longdesc>
       </item>
       <item>
-        <title>Andy R's 43rd birthday is tomorrow</title>
-        <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">andy_r-2025-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#andy_r-2025-1@birthdays.abnib.co.uk</link>
+        <title>Ele's birthday is in 7 days</title>
+        <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">ele-2025-7@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#ele-2025-7@birthdays.abnib.co.uk</link>
         <description><![CDATA[
-          It's on Tuesday 29 July 2025.
+          It's on Wednesday 6 August 2025.
         ]]></description>
         <abnib:longdesc>
-          Andy R's 43rd birthday is on Tuesday 29 July 2025.
-        </abnib:longdesc>
-      </item>
-      <item>
-        <title>Andy R's 43rd birthday is today</title>
-        <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">andy_r-2025-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#andy_r-2025-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Tuesday 29 July 2025.
-        ]]></description>
-        <abnib:longdesc>
-          Andy R's 43rd birthday is on Tuesday 29 July 2025.
+          Ele's birthday is on Wednesday 6 August 2025.
         </abnib:longdesc>
       </item>
   </channel>
