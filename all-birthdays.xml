@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <birthdays>
     <birthday>
-      <name><![CDATA[ Tabitha's 6th birthday ]]></name>
-      <date>Sunday 3 August 2025</date>
-      <datetime>2025-08-03</datetime>
-    </birthday>
-    <birthday>
       <name><![CDATA[ Ele's birthday ]]></name>
       <date>Wednesday 6 August 2025</date>
       <datetime>2025-08-06</datetime>
@@ -214,5 +209,10 @@
       <name><![CDATA[ Andy R's 44th birthday ]]></name>
       <date>Wednesday 29 July 2026</date>
       <datetime>2026-07-29</datetime>
+    </birthday>
+    <birthday>
+      <name><![CDATA[ Tabitha's 7th birthday ]]></name>
+      <date>Monday 3 August 2026</date>
+      <datetime>2026-08-03</datetime>
     </birthday>
 </birthdays>
