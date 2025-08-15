@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <birthdays>
     <birthday>
-      <name><![CDATA[ Andy K & Faye's 15th (crystal) wedding anniversary ]]></name>
-      <date>Thursday 14 August 2025</date>
-      <datetime>2025-08-14</datetime>
-    </birthday>
-    <birthday>
       <name><![CDATA[ Dan & Ruth have been together 18 years ]]></name>
       <date>Sunday 24 August 2025</date>
       <datetime>2025-08-24</datetime>
@@ -214,5 +209,10 @@
       <name><![CDATA[ Liz and Simon's 15th (crystal) wedding anniversary ]]></name>
       <date>Thursday 13 August 2026</date>
       <datetime>2026-08-13</datetime>
+    </birthday>
+    <birthday>
+      <name><![CDATA[ Andy K & Faye's 16th wedding anniversary ]]></name>
+      <date>Friday 14 August 2026</date>
+      <datetime>2026-08-14</datetime>
     </birthday>
 </birthdays>
