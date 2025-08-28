@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <birthdays>
     <birthday>
-      <name><![CDATA[ Gareth's 47th birthday ]]></name>
-      <date>Wednesday 27 August 2025</date>
-      <datetime>2025-08-27</datetime>
-    </birthday>
-    <birthday>
       <name><![CDATA[ Iona's 5th birthday ]]></name>
       <date>Tuesday 2 September 2025</date>
       <datetime>2025-09-02</datetime>
@@ -214,5 +209,10 @@
       <name><![CDATA[ Dan & Ruth have been together 19 years ]]></name>
       <date>Monday 24 August 2026</date>
       <datetime>2026-08-24</datetime>
+    </birthday>
+    <birthday>
+      <name><![CDATA[ Gareth's 48th birthday ]]></name>
+      <date>Thursday 27 August 2026</date>
+      <datetime>2026-08-27</datetime>
     </birthday>
 </birthdays>
