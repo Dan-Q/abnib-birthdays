@@ -5,9 +5,21 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 25 Sep 2025 18:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 00:04:25 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+      <item>
+        <title>Helen's birthday is in 7 days</title>
+        <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">helen-2025-7@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#helen-2025-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Friday 3 October 2025.
+        ]]></description>
+        <abnib:longdesc>
+          Helen's birthday is on Friday 3 October 2025.
+        </abnib:longdesc>
+      </item>
   </channel>
 </rss>
