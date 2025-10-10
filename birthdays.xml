@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 09 Oct 2025 18:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 00:05:23 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -39,6 +39,18 @@
         <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">matt_r-2025-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#matt_r-2025-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Friday 10 October 2025.
+        ]]></description>
+        <abnib:longdesc>
+          Matt R's 42nd birthday is on Friday 10 October 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Matt R's 42nd birthday is today</title>
+        <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">matt_r-2025-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#matt_r-2025-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Friday 10 October 2025.
         ]]></description>
