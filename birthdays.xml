@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Fri, 24 Oct 2025 18:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 00:04:47 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -14,6 +14,31 @@
         <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">ruth-2025-7@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#ruth-2025-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Sunday 26 October 2025.
+            On WhatsApp? Send greetings via Dan or JTA.
+        ]]></description>
+        <abnib:longdesc>
+          Ruth's 41st birthday is on Sunday 26 October 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Alec & Suz's 17th wedding anniversary is today</title>
+        <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">alec_suz-2025-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#alec_suz-2025-0@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Saturday 25 October 2025.
+        ]]></description>
+        <abnib:longdesc>
+          Alec & Suz's 17th wedding anniversary is on Saturday 25 October 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Ruth's 41st birthday is tomorrow</title>
+        <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">ruth-2025-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#ruth-2025-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Sunday 26 October 2025.
             On WhatsApp? Send greetings via Dan or JTA.
