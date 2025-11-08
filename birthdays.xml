@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Fri, 07 Nov 2025 18:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 00:05:00 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -19,6 +19,18 @@
         ]]></description>
         <abnib:longdesc>
           Liz's 43rd birthday is on Monday 10 November 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Claire & Jimmy's wedding anniversary is today</title>
+        <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">claire_jimmy-2025-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#claire_jimmy-2025-0@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Saturday 8 November 2025.
+        ]]></description>
+        <abnib:longdesc>
+          Claire & Jimmy's wedding anniversary is on Saturday 8 November 2025.
         </abnib:longdesc>
       </item>
   </channel>
