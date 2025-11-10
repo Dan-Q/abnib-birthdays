@@ -35,4 +35,4 @@ jobs:
         run: bundle exec ruby whatsapp-notify.rb
         env:
           WHAPI_CLOUD_TOKEN: ${{ secrets.WHAPI_CLOUD_TOKEN }}
-          NEWSLETTER_ID: ${{ secrets.WHAPI_CLOUD_NEWSLETTER_ID }}
+          WHAPI_CLOUD_NEWSLETTER_ID: ${{ secrets.WHAPI_CLOUD_NEWSLETTER_ID }}
