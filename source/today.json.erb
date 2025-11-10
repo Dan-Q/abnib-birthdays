@@ -1,1 +1,8 @@
-<%= birthdays.select{|birthday| birthday['date'] == Date.today}.to_json %>
+<%=
+  reminders.select{|reminder|
+    reminder['date'] == Date.today
+  }.map{|reminder|
+    reminder['desc'] = "#{describe_birthday(reminder['birthday'])} is " + (reminder['lead'] == 0 ? 'today' : (reminder['lead'] == 1 ? 'tomorrow' : "in #{reminder['lead']} days on #{reminder['date'].strftime('%A %-d %B %Y')}"))
+    reminder
+  }.to_json
+%>
