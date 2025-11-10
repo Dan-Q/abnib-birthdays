@@ -111,7 +111,7 @@
       <datetime>2026-05-31</datetime>
     </birthday>
     <birthday>
-      <name><![CDATA[ Ash's birthday ]]></name>
+      <name><![CDATA[ Ash's 43rd birthday ]]></name>
       <date>Tuesday 16 June 2026</date>
       <datetime>2026-06-16</datetime>
     </birthday>
@@ -209,10 +209,5 @@
       <name><![CDATA[ Ruth's 42nd birthday ]]></name>
       <date>Monday 26 October 2026</date>
       <datetime>2026-10-26</datetime>
-    </birthday>
-    <birthday>
-      <name><![CDATA[ Claire & Jimmy's wedding anniversary ]]></name>
-      <date>Sunday 8 November 2026</date>
-      <datetime>2026-11-08</datetime>
     </birthday>
 </birthdays>
