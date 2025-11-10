@@ -17,6 +17,7 @@ ash:
   name: Ash
   day: 16
   month: 6
+  year: 1983
 
 alec:
   name: Alec
@@ -162,7 +163,7 @@ martin:
   day: 15
   month: 1
   year: 2018
-  via: Claire or Jimmy
+  via: Ash or Jimmy
 
 matt_p:
   name: Matt P
@@ -270,11 +271,11 @@ andy_k_faye:
   year: 2010
   via: Andy K
 
-claire_jimmy:
-  type: wedding anniversary
-  name: Claire & Jimmy's wedding anniversary
-  day: 8
-  month: 11
+# ash_jimmy:
+#   type: wedding anniversary
+#   name: Ash & Jimmy's wedding anniversary
+#   day: 8
+#   month: 11
 
 dan_ruth:
   type: relationship anniversary
