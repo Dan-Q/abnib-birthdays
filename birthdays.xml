@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sun, 09 Nov 2025 18:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 00:05:28 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,18 @@
         <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">liz-2025-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#liz-2025-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Monday 10 November 2025.
+        ]]></description>
+        <abnib:longdesc>
+          Liz's 43rd birthday is on Monday 10 November 2025.
+        </abnib:longdesc>
+      </item>
+      <item>
+        <title>Liz's 43rd birthday is today</title>
+        <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">liz-2025-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#liz-2025-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Monday 10 November 2025.
         ]]></description>
