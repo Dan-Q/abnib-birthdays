@@ -5,21 +5,21 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 22 Jan 2026 12:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 13:09:05 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
       <item>
-        <title>Andy R & Sian's 16th wedding anniversary is today</title>
+        <title><![CDATA[Andy R & Sian's 16th wedding anniversary is today]]></title>
         <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">andy_r_sian-2026-0@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#andy_r_sian-2026-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Thursday 22 January 2026.
         ]]></description>
-        <abnib:longdesc>
+        <abnib:longdesc><![CDATA[
           Andy R & Sian's 16th wedding anniversary is on Thursday 22 January 2026.
-        </abnib:longdesc>
+        ]]></abnib:longdesc>
       </item>
   </channel>
 </rss>
