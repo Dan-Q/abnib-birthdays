@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Tue, 03 Feb 2026 18:13:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 00:06:13 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -14,6 +14,18 @@
         <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">matt_p-2026-7@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#matt_p-2026-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Thursday 5 February 2026.
+        ]]></description>
+        <abnib:longdesc><![CDATA[
+          Matt P's 42nd birthday is on Thursday 5 February 2026.
+        ]]></abnib:longdesc>
+      </item>
+      <item>
+        <title><![CDATA[Matt P's 42nd birthday is tomorrow]]></title>
+        <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">matt_p-2026-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#matt_p-2026-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Thursday 5 February 2026.
         ]]></description>
