@@ -5,22 +5,10 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Mon, 09 Mar 2026 18:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 00:06:00 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title><![CDATA[Simon's birthday is in 7 days]]></title>
-        <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">simon-2026-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#simon-2026-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Monday 9 March 2026.
-        ]]></description>
-        <abnib:longdesc><![CDATA[
-          Simon's birthday is on Monday 9 March 2026.
-        ]]></abnib:longdesc>
-      </item>
       <item>
         <title><![CDATA[Siân's 43rd birthday is in 7 days]]></title>
         <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
@@ -31,30 +19,6 @@
         ]]></description>
         <abnib:longdesc><![CDATA[
           Siân's 43rd birthday is on Saturday 14 March 2026.
-        ]]></abnib:longdesc>
-      </item>
-      <item>
-        <title><![CDATA[Simon's birthday is tomorrow]]></title>
-        <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">simon-2026-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#simon-2026-1@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Monday 9 March 2026.
-        ]]></description>
-        <abnib:longdesc><![CDATA[
-          Simon's birthday is on Monday 9 March 2026.
-        ]]></abnib:longdesc>
-      </item>
-      <item>
-        <title><![CDATA[Simon's birthday is today]]></title>
-        <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">simon-2026-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#simon-2026-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Monday 9 March 2026.
-        ]]></description>
-        <abnib:longdesc><![CDATA[
-          Simon's birthday is on Monday 9 March 2026.
         ]]></abnib:longdesc>
       </item>
   </channel>
