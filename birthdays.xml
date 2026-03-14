@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Fri, 13 Mar 2026 18:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 00:08:32 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,18 @@
         <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">sian-2026-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#sian-2026-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Saturday 14 March 2026.
+        ]]></description>
+        <abnib:longdesc><![CDATA[
+          Siân's 43rd birthday is on Saturday 14 March 2026.
+        ]]></abnib:longdesc>
+      </item>
+      <item>
+        <title><![CDATA[Siân's 43rd birthday is today]]></title>
+        <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">sian-2026-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#sian-2026-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Saturday 14 March 2026.
         ]]></description>
