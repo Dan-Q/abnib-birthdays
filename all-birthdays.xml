@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <birthdays>
     <birthday>
-      <name><![CDATA[ Siân's 43rd birthday ]]></name>
-      <date>Saturday 14 March 2026</date>
-      <datetime>2026-03-14</datetime>
-    </birthday>
-    <birthday>
       <name><![CDATA[ Hannah-May & Matt R's 12th (silk/fine linen) wedding anniversary ]]></name>
       <date>Saturday 21 March 2026</date>
       <datetime>2026-03-21</datetime>
@@ -209,5 +204,10 @@
       <name><![CDATA[ Simon's birthday ]]></name>
       <date>Tuesday 9 March 2027</date>
       <datetime>2027-03-09</datetime>
+    </birthday>
+    <birthday>
+      <name><![CDATA[ Siân's 44th birthday ]]></name>
+      <date>Sunday 14 March 2027</date>
+      <datetime>2027-03-14</datetime>
     </birthday>
 </birthdays>
