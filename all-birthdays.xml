@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <birthdays>
     <birthday>
-      <name><![CDATA[ 23 years today since Troma Night I ]]></name>
-      <date>Sunday 19 April 2026</date>
-      <datetime>2026-04-19</datetime>
-    </birthday>
-    <birthday>
       <name><![CDATA[ Rory's 45th birthday ]]></name>
       <date>Monday 27 April 2026</date>
       <datetime>2026-04-27</datetime>
@@ -209,5 +204,10 @@
       <name><![CDATA[ JTA's 42nd birthday ]]></name>
       <date>Friday 9 April 2027</date>
       <datetime>2027-04-09</datetime>
+    </birthday>
+    <birthday>
+      <name><![CDATA[ 24 years today since Troma Night I ]]></name>
+      <date>Monday 19 April 2027</date>
+      <datetime>2027-04-19</datetime>
     </birthday>
 </birthdays>
