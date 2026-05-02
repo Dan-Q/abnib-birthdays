@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Fri, 01 May 2026 18:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 00:19:12 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -27,6 +27,19 @@
         <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">bryn-2026-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#bryn-2026-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Saturday 2 May 2026.
+            On WhatsApp? Send greetings via a non-Abnib channel.
+        ]]></description>
+        <abnib:longdesc><![CDATA[
+          Bryn's 43rd birthday is on Saturday 2 May 2026.
+        ]]></abnib:longdesc>
+      </item>
+      <item>
+        <title><![CDATA[Bryn's 43rd birthday is today]]></title>
+        <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">bryn-2026-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#bryn-2026-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Saturday 2 May 2026.
             On WhatsApp? Send greetings via a non-Abnib channel.
