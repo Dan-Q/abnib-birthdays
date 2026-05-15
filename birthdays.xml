@@ -5,9 +5,21 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 14 May 2026 18:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:22:22 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+      <item>
+        <title><![CDATA[Emlyn's birthday is in 7 days]]></title>
+        <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">emlyn-2026-7@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#emlyn-2026-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Friday 22 May 2026.
+        ]]></description>
+        <abnib:longdesc><![CDATA[
+          Emlyn's birthday is on Friday 22 May 2026.
+        ]]></abnib:longdesc>
+      </item>
   </channel>
 </rss>
