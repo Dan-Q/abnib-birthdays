@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Fri, 29 May 2026 18:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 00:25:14 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -14,6 +14,19 @@
         <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">faye-2026-7@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#faye-2026-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Sunday 31 May 2026.
+            On WhatsApp? Send greetings via Andy K.
+        ]]></description>
+        <abnib:longdesc><![CDATA[
+          Faye's birthday is on Sunday 31 May 2026.
+        ]]></abnib:longdesc>
+      </item>
+      <item>
+        <title><![CDATA[Faye's birthday is tomorrow]]></title>
+        <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">faye-2026-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#faye-2026-1@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Sunday 31 May 2026.
             On WhatsApp? Send greetings via Andy K.
