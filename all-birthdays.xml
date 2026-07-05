@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <birthdays>
     <birthday>
-      <name><![CDATA[ Bryony's 10th birthday ]]></name>
-      <date>Saturday 4 July 2026</date>
-      <datetime>2026-07-04</datetime>
-    </birthday>
-    <birthday>
       <name><![CDATA[ Colin (Scotch Pete)'s birthday ]]></name>
       <date>Monday 13 July 2026</date>
       <datetime>2026-07-13</datetime>
@@ -209,5 +204,10 @@
       <name><![CDATA[ Ash's 44th birthday ]]></name>
       <date>Wednesday 16 June 2027</date>
       <datetime>2027-06-16</datetime>
+    </birthday>
+    <birthday>
+      <name><![CDATA[ Bryony's 11th birthday ]]></name>
+      <date>Sunday 4 July 2027</date>
+      <datetime>2027-07-04</datetime>
     </birthday>
 </birthdays>
