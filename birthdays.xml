@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sun, 12 Jul 2026 18:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 01:43:29 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -26,6 +26,18 @@
         <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">colin-2026-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#colin-2026-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Monday 13 July 2026.
+        ]]></description>
+        <abnib:longdesc><![CDATA[
+          Colin (Scotch Pete)'s birthday is on Monday 13 July 2026.
+        ]]></abnib:longdesc>
+      </item>
+      <item>
+        <title><![CDATA[Colin (Scotch Pete)'s birthday is today]]></title>
+        <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">colin-2026-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#colin-2026-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Monday 13 July 2026.
         ]]></description>
