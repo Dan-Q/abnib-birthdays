@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Mon, 27 Jul 2026 19:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 01:25:24 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -32,6 +32,18 @@
         ]]></description>
         <abnib:longdesc><![CDATA[
           Tabitha's 7th birthday is on Monday 3 August 2026.
+        ]]></abnib:longdesc>
+      </item>
+      <item>
+        <title><![CDATA[Andy R's 44th birthday is tomorrow]]></title>
+        <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">andy_r-2026-1@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#andy_r-2026-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Wednesday 29 July 2026.
+        ]]></description>
+        <abnib:longdesc><![CDATA[
+          Andy R's 44th birthday is on Wednesday 29 July 2026.
         ]]></abnib:longdesc>
       </item>
   </channel>
