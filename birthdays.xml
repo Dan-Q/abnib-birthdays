@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sun, 02 Aug 2026 18:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 01:45:53 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -39,6 +39,19 @@
         <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
         <guid isPermaLink="false">tabitha-2026-1@birthdays.abnib.co.uk</guid>
         <link>https://abnib.co.uk/#tabitha-2026-1@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Monday 3 August 2026.
+            On WhatsApp? Send greetings via Kit.
+        ]]></description>
+        <abnib:longdesc><![CDATA[
+          Tabitha's 7th birthday is on Monday 3 August 2026.
+        ]]></abnib:longdesc>
+      </item>
+      <item>
+        <title><![CDATA[Tabitha's 7th birthday is today]]></title>
+        <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">tabitha-2026-0@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#tabitha-2026-0@birthdays.abnib.co.uk</link>
         <description><![CDATA[
           It's on Monday 3 August 2026.
             On WhatsApp? Send greetings via Kit.
