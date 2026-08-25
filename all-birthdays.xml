@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <birthdays>
     <birthday>
-      <name><![CDATA[ Dan & Ruth have been together 19 years ]]></name>
-      <date>Monday 24 August 2026</date>
-      <datetime>2026-08-24</datetime>
-    </birthday>
-    <birthday>
       <name><![CDATA[ Gareth's 48th birthday ]]></name>
       <date>Thursday 27 August 2026</date>
       <datetime>2026-08-27</datetime>
@@ -209,5 +204,10 @@
       <name><![CDATA[ Andy K & Faye's 17th wedding anniversary ]]></name>
       <date>Saturday 14 August 2027</date>
       <datetime>2027-08-14</datetime>
+    </birthday>
+    <birthday>
+      <name><![CDATA[ Dan & Ruth have been together 20 years ]]></name>
+      <date>Tuesday 24 August 2027</date>
+      <datetime>2027-08-24</datetime>
     </birthday>
 </birthdays>
