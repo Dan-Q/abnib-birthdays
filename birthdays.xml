@@ -5,34 +5,10 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Thu, 27 Aug 2026 17:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 01:52:07 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title><![CDATA[Gareth's 48th birthday is in 7 days]]></title>
-        <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">gareth-2026-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#gareth-2026-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Thursday 27 August 2026.
-        ]]></description>
-        <abnib:longdesc><![CDATA[
-          Gareth's 48th birthday is on Thursday 27 August 2026.
-        ]]></abnib:longdesc>
-      </item>
-      <item>
-        <title><![CDATA[Gareth's 48th birthday is tomorrow]]></title>
-        <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">gareth-2026-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#gareth-2026-1@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Thursday 27 August 2026.
-        ]]></description>
-        <abnib:longdesc><![CDATA[
-          Gareth's 48th birthday is on Thursday 27 August 2026.
-        ]]></abnib:longdesc>
-      </item>
       <item>
         <title><![CDATA[Iona's 6th birthday is in 7 days]]></title>
         <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
@@ -44,18 +20,6 @@
         ]]></description>
         <abnib:longdesc><![CDATA[
           Iona's 6th birthday is on Wednesday 2 September 2026.
-        ]]></abnib:longdesc>
-      </item>
-      <item>
-        <title><![CDATA[Gareth's 48th birthday is today]]></title>
-        <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">gareth-2026-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#gareth-2026-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Thursday 27 August 2026.
-        ]]></description>
-        <abnib:longdesc><![CDATA[
-          Gareth's 48th birthday is on Thursday 27 August 2026.
         ]]></abnib:longdesc>
       </item>
   </channel>
