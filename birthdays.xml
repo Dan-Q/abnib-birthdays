@@ -5,9 +5,21 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Fri, 25 Sep 2026 20:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 02:24:46 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
+      <item>
+        <title><![CDATA[Helen's birthday is in 7 days]]></title>
+        <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">helen-2026-7@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#helen-2026-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Saturday 3 October 2026.
+        ]]></description>
+        <abnib:longdesc><![CDATA[
+          Helen's birthday is on Saturday 3 October 2026.
+        ]]></abnib:longdesc>
+      </item>
   </channel>
 </rss>
