@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 02:52:01 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -19,6 +19,19 @@
         ]]></description>
         <abnib:longdesc><![CDATA[
           Matt R's 43rd birthday is on Saturday 10 October 2026.
+        ]]></abnib:longdesc>
+      </item>
+      <item>
+        <title><![CDATA[Peter's 8th birthday is in 7 days]]></title>
+        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+        <guid isPermaLink="false">peter-2026-7@birthdays.abnib.co.uk</guid>
+        <link>https://abnib.co.uk/#peter-2026-7@birthdays.abnib.co.uk</link>
+        <description><![CDATA[
+          It's on Monday 12 October 2026.
+            On WhatsApp? Send greetings via Andy K.
+        ]]></description>
+        <abnib:longdesc><![CDATA[
+          Peter's 8th birthday is on Monday 12 October 2026.
         ]]></abnib:longdesc>
       </item>
   </channel>
