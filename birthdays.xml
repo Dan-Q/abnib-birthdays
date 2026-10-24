@@ -5,7 +5,7 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Fri, 23 Oct 2026 20:44:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 02:21:41 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -20,19 +20,6 @@
         ]]></description>
         <abnib:longdesc><![CDATA[
           Ruth's 42nd birthday is on Monday 26 October 2026.
-        ]]></abnib:longdesc>
-      </item>
-      <item>
-        <title><![CDATA[Fiona & Kit's 22nd wedding anniversary is today]]></title>
-        <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">fiona_kit-2026-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#fiona_kit-2026-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Friday 23 October 2026.
-            On WhatsApp? Send greetings via Kit.
-        ]]></description>
-        <abnib:longdesc><![CDATA[
-          Fiona & Kit's 22nd wedding anniversary is on Friday 23 October 2026.
         ]]></abnib:longdesc>
       </item>
   </channel>
