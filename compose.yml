@@ -1,0 +1,23 @@
+services:
+  middleman:
+    build:
+      dockerfile_inline: |
+        FROM ruby:4.0.7
+        # execjs (used by autoprefixer) needs a JavaScript runtime
+        RUN apt-get update \
+            && apt-get install -y --no-install-recommends nodejs \
+            && rm -rf /var/lib/apt/lists/*
+        WORKDIR /app
+    working_dir: /app
+    # Install gems (cached in a volume), then run Middleman's dev server in watch mode
+    command: >
+      sh -c "bundle install &&
+             bundle exec middleman server --bind-address=0.0.0.0 --port=4567 --watcher-force-polling"
+    ports:
+      - "4567:4567"
+    volumes:
+      - .:/app
+      - bundle:/usr/local/bundle
+
+volumes:
+  bundle:
