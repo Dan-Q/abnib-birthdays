@@ -5,45 +5,9 @@
     <atom:link href="https://abnib.co.uk/birthdays.xml" rel="self" type="application/rss+xml" />
     <link>https://abnib.co.uk/</link>
     <description>Birthdays and other special events of Abnibbers, their partners, and their children</description>
-    <lastBuildDate>Tue, 10 Nov 2026 22:37:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:37:54 +0000</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>daily</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
-      <item>
-        <title><![CDATA[Liz's 44th birthday is in 7 days]]></title>
-        <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">liz-2026-7@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#liz-2026-7@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Tuesday 10 November 2026.
-        ]]></description>
-        <abnib:longdesc><![CDATA[
-          Liz's 44th birthday is on Tuesday 10 November 2026.
-        ]]></abnib:longdesc>
-      </item>
-      <item>
-        <title><![CDATA[Liz's 44th birthday is tomorrow]]></title>
-        <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">liz-2026-1@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#liz-2026-1@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Tuesday 10 November 2026.
-        ]]></description>
-        <abnib:longdesc><![CDATA[
-          Liz's 44th birthday is on Tuesday 10 November 2026.
-        ]]></abnib:longdesc>
-      </item>
-      <item>
-        <title><![CDATA[Liz's 44th birthday is today]]></title>
-        <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-        <guid isPermaLink="false">liz-2026-0@birthdays.abnib.co.uk</guid>
-        <link>https://abnib.co.uk/#liz-2026-0@birthdays.abnib.co.uk</link>
-        <description><![CDATA[
-          It's on Tuesday 10 November 2026.
-        ]]></description>
-        <abnib:longdesc><![CDATA[
-          Liz's 44th birthday is on Tuesday 10 November 2026.
-        ]]></abnib:longdesc>
-      </item>
   </channel>
 </rss>
